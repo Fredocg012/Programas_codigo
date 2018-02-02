@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoDeVariacion\RangoDeVariacion\bin\Debug\RangoDeVariacion.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoDeVariacion\RangoDeVariacion\bin\Debug\RangoDeVariacion.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoDeVariacion\RangoDeVariacion\bin\Debug\RangoDeVariacion.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoDeVariacion\RangoDeVariacion\obj\Debug\RangoDeVariacion.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoDeVariacion\RangoDeVariacion\obj\Debug\RangoDeVariacion.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoDeVariacion\RangoDeVariacion\obj\Debug\RangoDeVariacion.pdb

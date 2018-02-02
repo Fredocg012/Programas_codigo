@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CoordenadaPlano\CoordenadaPlano\bin\Debug\CoordenadaPlano.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CoordenadaPlano\CoordenadaPlano\bin\Debug\CoordenadaPlano.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CoordenadaPlano\CoordenadaPlano\bin\Debug\CoordenadaPlano.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CoordenadaPlano\CoordenadaPlano\obj\Debug\CoordenadaPlano.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CoordenadaPlano\CoordenadaPlano\obj\Debug\CoordenadaPlano.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CoordenadaPlano\CoordenadaPlano\obj\Debug\CoordenadaPlano.pdb

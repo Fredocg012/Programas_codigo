@@ -1,0 +1,6 @@
+c:\users\rosas\documents\visual studio 2015\Projects\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\MayorDeTresNumeros.exe.config
+c:\users\rosas\documents\visual studio 2015\Projects\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\MayorDeTresNumeros.exe
+c:\users\rosas\documents\visual studio 2015\Projects\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\MayorDeTresNumeros.pdb
+c:\users\rosas\documents\visual studio 2015\Projects\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.csprojResolveAssemblyReference.cache
+c:\users\rosas\documents\visual studio 2015\Projects\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.exe
+c:\users\rosas\documents\visual studio 2015\Projects\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.pdb

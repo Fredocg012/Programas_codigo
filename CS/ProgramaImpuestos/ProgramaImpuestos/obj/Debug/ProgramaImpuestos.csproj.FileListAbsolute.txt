@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaImpuestos\ProgramaImpuestos\bin\Debug\ProgramaImpuestos.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaImpuestos\ProgramaImpuestos\bin\Debug\ProgramaImpuestos.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaImpuestos\ProgramaImpuestos\bin\Debug\ProgramaImpuestos.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaImpuestos\ProgramaImpuestos\obj\Debug\ProgramaImpuestos.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaImpuestos\ProgramaImpuestos\obj\Debug\ProgramaImpuestos.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaImpuestos\ProgramaImpuestos\obj\Debug\ProgramaImpuestos.pdb

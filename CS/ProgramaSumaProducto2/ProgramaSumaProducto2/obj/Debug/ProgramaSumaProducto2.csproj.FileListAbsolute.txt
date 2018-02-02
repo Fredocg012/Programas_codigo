@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaProducto2\ProgramaSumaProducto2\bin\Debug\ProgramaSumaProducto2.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaProducto2\ProgramaSumaProducto2\bin\Debug\ProgramaSumaProducto2.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaProducto2\ProgramaSumaProducto2\bin\Debug\ProgramaSumaProducto2.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaProducto2\ProgramaSumaProducto2\obj\Debug\ProgramaSumaProducto2.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaProducto2\ProgramaSumaProducto2\obj\Debug\ProgramaSumaProducto2.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaProducto2\ProgramaSumaProducto2\obj\Debug\ProgramaSumaProducto2.pdb

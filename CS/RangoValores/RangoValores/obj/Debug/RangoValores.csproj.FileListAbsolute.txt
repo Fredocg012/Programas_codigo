@@ -1,0 +1,5 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoValores\RangoValores\bin\Debug\RangoValores.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoValores\RangoValores\bin\Debug\RangoValores.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoValores\RangoValores\bin\Debug\RangoValores.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoValores\RangoValores\obj\Debug\RangoValores.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\RangoValores\RangoValores\obj\Debug\RangoValores.pdb

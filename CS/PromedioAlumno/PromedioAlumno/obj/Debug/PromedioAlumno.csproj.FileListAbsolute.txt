@@ -1,0 +1,5 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioAlumno\PromedioAlumno\bin\Debug\PromedioAlumno.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioAlumno\PromedioAlumno\bin\Debug\PromedioAlumno.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioAlumno\PromedioAlumno\bin\Debug\PromedioAlumno.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioAlumno\PromedioAlumno\obj\Debug\PromedioAlumno.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioAlumno\PromedioAlumno\obj\Debug\PromedioAlumno.pdb

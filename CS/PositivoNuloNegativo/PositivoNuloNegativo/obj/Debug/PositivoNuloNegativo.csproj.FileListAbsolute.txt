@@ -1,0 +1,5 @@
+c:\users\rosas\documents\visual studio 2015\Projects\PositivoNuloNegativo\PositivoNuloNegativo\bin\Debug\PositivoNuloNegativo.exe.config
+c:\users\rosas\documents\visual studio 2015\Projects\PositivoNuloNegativo\PositivoNuloNegativo\bin\Debug\PositivoNuloNegativo.exe
+c:\users\rosas\documents\visual studio 2015\Projects\PositivoNuloNegativo\PositivoNuloNegativo\bin\Debug\PositivoNuloNegativo.pdb
+c:\users\rosas\documents\visual studio 2015\Projects\PositivoNuloNegativo\PositivoNuloNegativo\obj\Debug\PositivoNuloNegativo.exe
+c:\users\rosas\documents\visual studio 2015\Projects\PositivoNuloNegativo\PositivoNuloNegativo\obj\Debug\PositivoNuloNegativo.pdb

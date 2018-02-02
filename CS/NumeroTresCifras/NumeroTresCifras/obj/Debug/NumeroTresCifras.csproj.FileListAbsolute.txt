@@ -1,0 +1,5 @@
+c:\users\rosas\documents\visual studio 2015\Projects\NumeroTresCifras\NumeroTresCifras\bin\Debug\NumeroTresCifras.exe.config
+c:\users\rosas\documents\visual studio 2015\Projects\NumeroTresCifras\NumeroTresCifras\bin\Debug\NumeroTresCifras.exe
+c:\users\rosas\documents\visual studio 2015\Projects\NumeroTresCifras\NumeroTresCifras\bin\Debug\NumeroTresCifras.pdb
+c:\users\rosas\documents\visual studio 2015\Projects\NumeroTresCifras\NumeroTresCifras\obj\Debug\NumeroTresCifras.exe
+c:\users\rosas\documents\visual studio 2015\Projects\NumeroTresCifras\NumeroTresCifras\obj\Debug\NumeroTresCifras.pdb

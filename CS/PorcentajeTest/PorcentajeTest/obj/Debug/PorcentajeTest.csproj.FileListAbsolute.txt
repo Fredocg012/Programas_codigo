@@ -1,0 +1,6 @@
+c:\users\rosas\documents\visual studio 2015\Projects\PorcentajeTest\PorcentajeTest\bin\Debug\PorcentajeTest.exe.config
+c:\users\rosas\documents\visual studio 2015\Projects\PorcentajeTest\PorcentajeTest\bin\Debug\PorcentajeTest.exe
+c:\users\rosas\documents\visual studio 2015\Projects\PorcentajeTest\PorcentajeTest\bin\Debug\PorcentajeTest.pdb
+c:\users\rosas\documents\visual studio 2015\Projects\PorcentajeTest\PorcentajeTest\obj\Debug\PorcentajeTest.csprojResolveAssemblyReference.cache
+c:\users\rosas\documents\visual studio 2015\Projects\PorcentajeTest\PorcentajeTest\obj\Debug\PorcentajeTest.exe
+c:\users\rosas\documents\visual studio 2015\Projects\PorcentajeTest\PorcentajeTest\obj\Debug\PorcentajeTest.pdb

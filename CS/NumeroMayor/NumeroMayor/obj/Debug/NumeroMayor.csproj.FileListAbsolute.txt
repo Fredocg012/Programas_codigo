@@ -1,0 +1,5 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.pdb

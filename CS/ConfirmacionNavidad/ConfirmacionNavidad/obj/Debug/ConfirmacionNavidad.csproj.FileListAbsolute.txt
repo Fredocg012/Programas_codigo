@@ -1,0 +1,11 @@
+c:\users\rosas\documents\visual studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\bin\Debug\ConfirmacionNavidad.exe.config
+c:\users\rosas\documents\visual studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\bin\Debug\ConfirmacionNavidad.exe
+c:\users\rosas\documents\visual studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\bin\Debug\ConfirmacionNavidad.pdb
+c:\users\rosas\documents\visual studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\obj\Debug\ConfirmacionNavidad.exe
+c:\users\rosas\documents\visual studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\obj\Debug\ConfirmacionNavidad.pdb
+C:\Users\jesusadrian\Documents\Visual Studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\bin\Debug\ConfirmacionNavidad.exe.config
+C:\Users\jesusadrian\Documents\Visual Studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\obj\Debug\ConfirmacionNavidad.exe
+C:\Users\jesusadrian\Documents\Visual Studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\obj\Debug\ConfirmacionNavidad.pdb
+C:\Users\jesusadrian\Documents\Visual Studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\bin\Debug\ConfirmacionNavidad.exe
+C:\Users\jesusadrian\Documents\Visual Studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\bin\Debug\ConfirmacionNavidad.pdb
+C:\Users\jesusadrian\Documents\Visual Studio 2015\Projects\ConfirmacionNavidad\ConfirmacionNavidad\obj\Debug\ConfirmacionNavidad.csprojResolveAssemblyReference.cache

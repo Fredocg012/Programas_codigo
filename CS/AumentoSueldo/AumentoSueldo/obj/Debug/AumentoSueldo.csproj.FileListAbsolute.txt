@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AumentoSueldo\AumentoSueldo\bin\Debug\AumentoSueldo.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AumentoSueldo\AumentoSueldo\bin\Debug\AumentoSueldo.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AumentoSueldo\AumentoSueldo\bin\Debug\AumentoSueldo.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AumentoSueldo\AumentoSueldo\obj\Debug\AumentoSueldo.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AumentoSueldo\AumentoSueldo\obj\Debug\AumentoSueldo.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AumentoSueldo\AumentoSueldo\obj\Debug\AumentoSueldo.pdb

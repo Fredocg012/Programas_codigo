@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\FabricaPerfilesDeHierro\FabricaPerfilesDeHierro\bin\Debug\FabricaPerfilesDeHierro.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\FabricaPerfilesDeHierro\FabricaPerfilesDeHierro\bin\Debug\FabricaPerfilesDeHierro.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\FabricaPerfilesDeHierro\FabricaPerfilesDeHierro\bin\Debug\FabricaPerfilesDeHierro.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\FabricaPerfilesDeHierro\FabricaPerfilesDeHierro\obj\Debug\FabricaPerfilesDeHierro.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\FabricaPerfilesDeHierro\FabricaPerfilesDeHierro\obj\Debug\FabricaPerfilesDeHierro.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\FabricaPerfilesDeHierro\FabricaPerfilesDeHierro\obj\Debug\FabricaPerfilesDeHierro.pdb

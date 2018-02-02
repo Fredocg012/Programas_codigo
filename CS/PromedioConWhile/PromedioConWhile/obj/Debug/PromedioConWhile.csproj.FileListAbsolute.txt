@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioConWhile\PromedioConWhile\bin\Debug\PromedioConWhile.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioConWhile\PromedioConWhile\bin\Debug\PromedioConWhile.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioConWhile\PromedioConWhile\bin\Debug\PromedioConWhile.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioConWhile\PromedioConWhile\obj\Debug\PromedioConWhile.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioConWhile\PromedioConWhile\obj\Debug\PromedioConWhile.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\PromedioConWhile\PromedioConWhile\obj\Debug\PromedioConWhile.pdb

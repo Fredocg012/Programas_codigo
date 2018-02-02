@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\While\While\bin\Debug\While.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\While\While\bin\Debug\While.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\While\While\bin\Debug\While.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\While\While\obj\Debug\While.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\While\While\obj\Debug\While.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\While\While\obj\Debug\While.pdb

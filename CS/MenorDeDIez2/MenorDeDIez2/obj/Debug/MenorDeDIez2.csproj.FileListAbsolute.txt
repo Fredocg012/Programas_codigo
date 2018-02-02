@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenorDeDIez2\MenorDeDIez2\bin\Debug\MenorDeDIez2.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenorDeDIez2\MenorDeDIez2\bin\Debug\MenorDeDIez2.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenorDeDIez2\MenorDeDIez2\bin\Debug\MenorDeDIez2.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenorDeDIez2\MenorDeDIez2\obj\Debug\MenorDeDIez2.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenorDeDIez2\MenorDeDIez2\obj\Debug\MenorDeDIez2.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenorDeDIez2\MenorDeDIez2\obj\Debug\MenorDeDIez2.pdb

@@ -1,0 +1,5 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaPromedio\ProgramaSumaPromedio\bin\Debug\ProgramaSumaPromedio.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaPromedio\ProgramaSumaPromedio\bin\Debug\ProgramaSumaPromedio.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaPromedio\ProgramaSumaPromedio\bin\Debug\ProgramaSumaPromedio.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaPromedio\ProgramaSumaPromedio\obj\Debug\ProgramaSumaPromedio.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\ProgramaSumaPromedio\ProgramaSumaPromedio\obj\Debug\ProgramaSumaPromedio.pdb

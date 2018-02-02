@@ -1,0 +1,5 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AdvertenciaIguales\AdvertenciaIguales\bin\Debug\AdvertenciaIguales.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AdvertenciaIguales\AdvertenciaIguales\bin\Debug\AdvertenciaIguales.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AdvertenciaIguales\AdvertenciaIguales\bin\Debug\AdvertenciaIguales.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AdvertenciaIguales\AdvertenciaIguales\obj\Debug\AdvertenciaIguales.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\AdvertenciaIguales\AdvertenciaIguales\obj\Debug\AdvertenciaIguales.pdb

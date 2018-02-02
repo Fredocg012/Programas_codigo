@@ -1,0 +1,5 @@
+c:\users\rosas\documents\visual studio 2015\Projects\TresNumerosIguales\TresNumerosIguales\bin\Debug\TresNumerosIguales.exe.config
+c:\users\rosas\documents\visual studio 2015\Projects\TresNumerosIguales\TresNumerosIguales\bin\Debug\TresNumerosIguales.exe
+c:\users\rosas\documents\visual studio 2015\Projects\TresNumerosIguales\TresNumerosIguales\bin\Debug\TresNumerosIguales.pdb
+c:\users\rosas\documents\visual studio 2015\Projects\TresNumerosIguales\TresNumerosIguales\obj\Debug\TresNumerosIguales.exe
+c:\users\rosas\documents\visual studio 2015\Projects\TresNumerosIguales\TresNumerosIguales\obj\Debug\TresNumerosIguales.pdb

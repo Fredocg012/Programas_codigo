@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CalificacionesAlumnos\CalificacionesAlumnos\bin\Debug\CalificacionesAlumnos.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CalificacionesAlumnos\CalificacionesAlumnos\bin\Debug\CalificacionesAlumnos.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CalificacionesAlumnos\CalificacionesAlumnos\bin\Debug\CalificacionesAlumnos.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CalificacionesAlumnos\CalificacionesAlumnos\obj\Debug\CalificacionesAlumnos.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CalificacionesAlumnos\CalificacionesAlumnos\obj\Debug\CalificacionesAlumnos.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\CalificacionesAlumnos\CalificacionesAlumnos\obj\Debug\CalificacionesAlumnos.pdb

@@ -1,0 +1,5 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenoresDeDiez\MenoresDeDiez\bin\Debug\MenoresDeDiez.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenoresDeDiez\MenoresDeDiez\bin\Debug\MenoresDeDiez.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenoresDeDiez\MenoresDeDiez\bin\Debug\MenoresDeDiez.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenoresDeDiez\MenoresDeDiez\obj\Debug\MenoresDeDiez.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\MenoresDeDiez\MenoresDeDiez\obj\Debug\MenoresDeDiez.pdb

@@ -1,0 +1,6 @@
+c:\users\rosas\documents\visual studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.exe.config
+c:\users\rosas\documents\visual studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.exe
+c:\users\rosas\documents\visual studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.pdb
+c:\users\rosas\documents\visual studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.exe
+c:\users\rosas\documents\visual studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.pdb
+c:\users\rosas\documents\visual studio 2015\Projects\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\rosas\documents\visual studio 2015\Projects\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe.config
+c:\users\rosas\documents\visual studio 2015\Projects\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe
+c:\users\rosas\documents\visual studio 2015\Projects\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.pdb
+c:\users\rosas\documents\visual studio 2015\Projects\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csprojResolveAssemblyReference.cache
+c:\users\rosas\documents\visual studio 2015\Projects\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.exe
+c:\users\rosas\documents\visual studio 2015\Projects\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.pdb

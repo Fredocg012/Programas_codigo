@@ -1,0 +1,6 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\OperadoresMatematicos.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\OperadoresMatematicos.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\OperadoresMatematicos.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\OperadoresMatematicos.csprojResolveAssemblyReference.cache
+c:\users\jesusadrian\documents\visual studio 2015\Projects\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\OperadoresMatematicos.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\OperadoresMatematicos.pdb

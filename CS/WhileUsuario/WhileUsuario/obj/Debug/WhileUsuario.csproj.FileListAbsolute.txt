@@ -1,0 +1,5 @@
+c:\users\jesusadrian\documents\visual studio 2015\Projects\WhileUsuario\WhileUsuario\bin\Debug\WhileUsuario.exe.config
+c:\users\jesusadrian\documents\visual studio 2015\Projects\WhileUsuario\WhileUsuario\bin\Debug\WhileUsuario.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\WhileUsuario\WhileUsuario\bin\Debug\WhileUsuario.pdb
+c:\users\jesusadrian\documents\visual studio 2015\Projects\WhileUsuario\WhileUsuario\obj\Debug\WhileUsuario.exe
+c:\users\jesusadrian\documents\visual studio 2015\Projects\WhileUsuario\WhileUsuario\obj\Debug\WhileUsuario.pdb
