@@ -1,0 +1,79 @@
+                             Tabletas
+______________________________________________________________________
+
+ID: 64
+
+Articulo: Lanix ilium PAD i8
+Cantidad: 12
+Especificaciones: * Diagonal de la pantalla: 7.85pulg.
+                  * Resolucion de la pantalla: 1280 x 800
+                    Pixeles
+                  * Capacidad total de almacenaje: 16 GB
+                  * Sistema operativo instalado: 
+                    Android 5.0
+                  * Color del producto: Negro
+
+Precio: $1,569.00 MXN
+
+______________________________________________________________________
+
+ID: 65
+
+Articulo: Samsung Galaxy Tab A
+Cantidad: 21
+Especificaciones: * Diagonal de la pantalla: 8pulg.
+                  * Resolucion de la pantalla: 1024 x 768
+                    Pixeles
+                  * Capacidad total de almacenaje: 16 GB
+                  * Color del producto: Gris
+
+Precio: $4,709.00 MXN
+
+______________________________________________________________________
+
+ID: 66
+
+Articulo: Samsung Galaxy Brook
+Cantidad: 3
+Especificaciones: * Diagonal de la pantalla: 10.6pulg.
+                  * Resolucion de la pantalla: 1920 x 1280 
+                    Pixeles
+                  * Sistema operativo instalado: 
+                    Windows 10 Home
+                  * Color del producto: Negro
+
+Precio: $14,879.00 MXN
+
+______________________________________________________________________
+
+ID: 67
+
+Articulo: Samsung Galaxy TAB S2
+Cantidad: 24
+Especificaciones: * Diagonal de la pantalla: 9.7pulg.
+                  * Resolucion de la pantalla: 2560 x 1440
+                    Pixeles
+                  * Capacidad total de almacenaje: 32 GB
+                  * Sistema operativo instalado: 
+                    Android 6.0
+                  * Color del producto: Blanco
+
+Precio: $6,669.00 MXN
+
+______________________________________________________________________
+
+ID: 68
+
+Articulo: Vorago PAD-7 V2
+Cantidad: 16
+Especificaciones: * Diagonal de la pantalla: 7pulg.
+                  * Resolucion de la pantalla: 1024 x 600
+                    Pixeles
+                  * Capacidad total de almacenaje: 8 GB
+                  * Sistema operativo instalado:
+                    Android 6.0
+                  * Color del producto: Negro
+
+Precio: $1,159.00 MXN
+
+______________________________________________________________________

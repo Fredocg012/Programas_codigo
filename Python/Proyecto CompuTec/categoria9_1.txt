@@ -1,0 +1,73 @@
+				Pantallas
+______________________________________________________________________
+
+ID: 164
+
+Articulo: LG Smart TV LED 43UH6030
+Cantidad: 25	
+Especificaciones: *Diagonal de la pantalla: 43pulg.
+		  *Resolucion de la pantalla: 3840 x 2160 Pixeles
+		  *Tipo HD: 4K Ultra HD
+		  *Numero de puertos HDMI: 3
+		  *Cantidad de puertos USB 2.0: 1
+		  *Altavoces incorporados: si
+
+
+Precio: $9,839.00 MXN
+______________________________________________________________________
+
+ID: 165
+
+Articulo: Samsung Smart TV LED MU6100 Serie 6
+Cantidad: 13
+Especificaciones: *Diagonal de la pantalla: 40pulg.
+		  *Resolucion de la pantalla: 3840 x 2160 Pixeles
+		  *Tipo HD: 4K Ultra HD
+		  *Numero de puertos HDMI: 3
+		  *Cantidad de puertos USB 2.0: 2
+		  *Altavoces incorporados:si
+
+Precio: $ 8,979.00 MXN
+______________________________________________________________________
+
+ID: 166
+
+Articulo: LG Smart TV LED UH6100	
+Cantidad: 32
+Especificaciones: *Diagonal de la pantalla: 43pulg.
+		  *Resolucion de la pantalla: 3840 x 2160 Pixeles
+		  *Tipo HD: 4K Ultra HD
+		  *Numero de puertos HDMI: 3
+		  *Cantidad de puertos USB 2.0: 1
+		  *Altavoces incorporados:si
+
+Precio: $ 9,389.00 MXN
+______________________________________________________________________
+
+ID: 167
+
+Articulo: Samsung  Smart TV LED UN32J4300AF	
+Cantidad: 14
+Especificaciones: *Diagonal de la pantalla: 32pulg.
+		  *Resolucion de la pantalla: 1366 x 768 Pixeles
+		  *Tipo HD: HD
+		  *Numero de puertos HDMI: 2
+		  *Cantidad de puertos USB 2.0: 1
+		  *Altavoces incorporados:si	
+
+Precio: $ 5,039.00 MXN
+______________________________________________________________________
+
+ID: 168
+
+Articulo: Hisense Smart TV LED 40H5D
+Cantidad: 19	
+Especificaciones: *Diagonal de la pantalla: 40pulg.
+		  *Resolucion de la pantalla: 1920 x 1080 Pixeles
+		  *Tipo HD: Full HD
+		  *Numero de puertos HDMI: 3
+		  *Cantidad de puertos USB 2.0: 2
+		  *Altavoces incorporados:si
+
+Precio: $ 6,369.00 MXN
+______________________________________________________________________

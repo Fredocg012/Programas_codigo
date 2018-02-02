@@ -1,0 +1,76 @@
+                    Impresoras y multifuncionales
+                         (Impresoras a color)
+______________________________________________________________________
+
+ID: 39
+
+Articulo: Canon PIXMA PRO-100
+Cantidad: 40
+Especificaciones: * Resolucion maxima: 4800 x 2400 DPI
+                  * Interfaz estandar: USB 2.0
+                  * Wifi: si
+
+Precio: $5,909.00 MXN
+
+______________________________________________________________________
+
+ID: 40
+
+Articulo: Epson L310
+Cantidad: 34
+Especificaciones: * Capacidad de salida estandar: 
+                    30 hojas
+                  * Resolucion maxima: 5760 x 1440 DPI
+                  * Interfaz estandar: USB 2.0
+                  * Impresion duplex: si
+                  * Wifi: no
+
+Precio: $2,889.00 MXN
+
+______________________________________________________________________
+
+ID: 41
+
+Articulo: Hp Pagewide Pro 452dw
+Cantidad: 27
+Especificaciones: * Capacidad de salida estandar: 
+                    300 hojas
+                  * Resolucion maxima: 2400 x 1200 DPI
+                  * Interfaz estandar: Ethernet, 
+                    USB 2.0, LAN inalambrica
+                  * Impresion duplex: si
+                  * Wifi: si
+
+Precio: $4,529.00 MXN
+
+______________________________________________________________________
+
+ID: 42
+
+Articulo: HP Laserjet Enterprise M553dn
+Cantidad: 45
+Especificaciones: * Capacidad de salida estandar: 
+                    250 hojas
+                  * Resolucion maxima: 1200 x 1200 DPI
+                  * Interfaz estandar: Ethernet,USB 2.0
+                  * Impresion duplex: si
+                  * Wifi: no
+
+Precio: $13,119.00 MXN
+
+______________________________________________________________________
+
+ID: 43
+
+Articulo: Hp Laserjet Enterprise M652dn
+Cantidad: 23
+Especificaciones: * Capacidad de salida estandar: 
+                    500 hojas
+                  * Resolucion maxima: 1200 x 1200 DPI
+                  * Interfaz estandar: USB 2.0
+                  * Impresion duplex: si
+                  * Wifi: si
+
+Precio: $33,079.00 MXN
+
+______________________________________________________________________

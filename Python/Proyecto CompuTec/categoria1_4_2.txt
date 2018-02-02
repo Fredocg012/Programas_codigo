@@ -1,0 +1,77 @@
+                            Discos duros
+                 (Discos duros internos para LapTop)
+______________________________________________________________________
+
+ID: 29
+
+Articulo: Disco Duro para Laptop Toshiba 2.5'',
+          1TB, SATA, 3 Gbit/s, 5400RPM, 8MB Cache
+Cantidad: 0
+Especificaciones: * Capacidad: 1000 GB
+                  * Velocidad de rotacion: 5400 RPM
+                  * Tamano de disco duro: 2.5pulg.
+                  * Interfaz: Serial ATA
+                  * Velocidad de transferencia de 
+                    datos: 3 Gbit/s
+
+Precio: $1,900.00 MXN
+
+OFERTA (tiempo limitado): $1,009.00
+
+______________________________________________________________________
+
+ID: 30
+
+Articulo: Disco Duro para Laptop Seagate FireCuda 2.5'',
+          2TB, SATA III, 5400RPM, 128MB Cache
+Cantidad: 40
+Especificaciones: * Capacidad: 2000 GB
+                  * Velocidad de rotacion: 5400 RPM
+                  * Tamano de disco duro: 2.5pulg.
+                  * Interfaz: Serial ATA III
+
+Precio: $1,949.00 MXN
+
+______________________________________________________________________
+
+ID: 31
+
+Articulo: Disco Duro para Laptop Seagate BarraCuda 2.5",
+          4TB, SATA III, 5400RPM, 128MB Cache
+Cantidad: 34
+Especificaciones: * Capacidad: 4000 GB
+                  * Velocidad de rotacion: 5400 RPM
+                  * Tamano de disco duro: 2.5pulg.
+                  * Interfaz: Serial ATA III
+
+Precio: $4,149.00 MXN
+
+______________________________________________________________________
+
+ID: 32
+
+Articulo: Disco Duro Interno Lenovo 2.5'', 900GB, SAS,
+          10.000RPM
+Cantidad: 47
+Especificaciones: * Capacidad: 900 GB
+                  * Velocidad de rotacion: 10000 RPM
+                  * Tamano de disco duro: 2.5pulg.
+                  * Interfaz: SAS
+
+Precio: $8,309.00 MXN
+
+______________________________________________________________________
+
+ID: 33
+
+Articulo: Disco Duro Interno Lenovo 2.5" 600GB SAS, 
+          12Gbit/s, 15000RPM
+Cantidad: 23
+Especificaciones: * Capacidad: 600 GB
+                  * Velocidad de rotacion: 15000 RPM
+                  * Tamano de disco duro: 2.5pulg.
+                  * Interfaz: SAS
+
+Precio: $9,679.00 MXN
+
+______________________________________________________________________

@@ -1,0 +1,79 @@
+                              IPods
+______________________________________________________________________
+
+ID: 139
+
+Articulo: Apple iPod Nano 16GB, Bluetooth 4.0, Space 
+          Gray (7a Generacion)
+Cantidad: 43
+Especificaciones: * Capacidad total de almacenaje: 16 GB
+                  * Diagonal de la pantalla: 2.5pulg.
+                  * Resolucion de la pantalla: 240 x 432
+                    Pixeles
+                  * Interfaz: Lightning
+                  * Color del producto: Gris
+
+Precio: $3,869.00 MXN
+
+______________________________________________________________________
+
+ID: 140
+
+Articulo: Apple iPod Touch 32GB, 8MP, Apple A8, Bluetooth
+          4.1, Oro
+Cantidad: 29
+Especificaciones: * Capacidad total de almacenaje: 32 GB
+                  * Diagonal de la pantalla: 4pulg.
+                  * Resolucion de la pantalla: 1136 x 640
+                    Pixeles
+                  * Interfaz: Lightning
+                  * Color del producto: Oro
+
+Precio: $4,249.00 MXN
+
+______________________________________________________________________
+
+ID: 141
+
+Articulo: Apple iPod Touch 32GB, 8MP, Apple A8, Bluetooth
+          4.1, Plata
+Cantidad: 12
+Especificaciones: * Capacidad total de almacenaje: 32 GB
+                  * Diagonal de la pantalla: 4pulg.
+                  * Resolucion de la pantalla: 1136 x 640
+                    Pixeles
+                  * Interfaz: Lightning
+                  * Color del producto: Plata
+
+Precio: $4,159.00 MXN
+
+______________________________________________________________________
+
+ID: 142
+
+Articulo: Apple iPod Touch 16GB, 8MP, Apple A8, Bluetooth
+          4.1, Plata
+Cantidad: 23
+Especificaciones: * Capacidad total de almacenaje: 16 GB
+                  * Diagonal de la pantalla: 4pulg.
+                  * Resolucion de la pantalla: 1136 x 640
+                    Pixeles
+                  * Interfaz: Lightning
+                  * Color del producto: Plata
+
+Precio: $4,179.00 MXN
+
+______________________________________________________________________
+
+ID: 143
+
+Articulo: Apple iPod Shuffle 2GB, Space Gray (4a 
+          Generación)
+Cantidad: 18
+Especificaciones: * Capacidad total de almacenaje: 2 GB
+                  * Interfaz: Lightning
+                  * Color del producto: Gris
+
+Precio: $849.00 MXN
+
+______________________________________________________________________

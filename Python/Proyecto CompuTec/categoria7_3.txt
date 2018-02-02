@@ -1,0 +1,82 @@
+                             MacBooks
+______________________________________________________________________
+
+ID: 144
+
+Articulo: Apple MacBook Pro MD101E/A 13.3'', Intel Core
+          i5 2.50GHz, 4GB, 500GB, Mac OS X 10.7 Lion 
+          (Junio 2012)
+Cantidad: 16
+Especificaciones: * Intel Core i5
+                  * 13.3pulg., 1280 x 800 Pixeles
+                  * 4 GB, DDR3-SDRAM
+                  * 500 GB, 5400 RPM, DVD Super Multi DL
+                  * Mac OS X 10.8 Mountain Lion
+
+Precio: $17,719.00 MXN
+
+______________________________________________________________________
+
+ID: 145
+
+Articulo: Apple MacBook Pro Retina MPTU2E/A 15.4'', 
+          Intel Core i7 2.80GHz, 16GB, 256GB SSD, Mac OS
+          Sierra, Plata (Agosto 2017)
+Cantidad: 45
+Especificaciones: * Intel Core i7-7xxx
+                  * 15.4pulg., 2880 x 1800 Pixeles
+                  * 16 GB, LPDDR3-SDRAM
+                  * 256 GB, no
+                  * macOS Sierra
+
+Precio: $53,669.00 MXN
+
+______________________________________________________________________
+
+ID: 146
+
+Articulo: Apple MackBook Retina MNYJ2E/A 12'', Intel 
+          Core i5 1.30GHz, 8GB, 512GB SSD, Mac OS Sierra,
+          Plata (Octubre 2017)
+Cantidad: 38
+Especificaciones: * Intel Core i5-7xxx
+                  * 12pulg., 2304 x 1440 Pixeles
+                  * 8 GB, LPDDR3-SDRAM
+                  * 512 GB, no
+                  * macOS Sierra
+
+Precio: $36,979.00 MXN
+
+______________________________________________________________________
+
+ID: 147
+
+Articulo: Apple MacBook Pro Retina MPTT2E/A 15.4", Intel
+          Core i7 2.90GHz, 16GB, 512GB SSD, Mac OS Sierra,
+          Gris (Septiembre 2017)
+Cantidad: 29
+Especificaciones: * Intel Core i7-7xxx
+                  * 15.4pulg., 2880 x 1800 Pixeles
+                  * 16 GB, LPDDR3-SDRAM
+                  * 512 GB, no
+                  * macOS Sierra
+
+Precio: $61,079.00 MXN
+
+______________________________________________________________________
+
+ID: 148
+
+Articulo: Apple MacBook Pro Retina MPXT2E/A 13.3", Intel 
+          Core i5 2.30GHz, 8GB, 256GB SSD, Mac OS Sierra,
+          Space Gray (Agosto 2017)
+Cantidad: 10
+Especificaciones: * Intel Core i5-7xxx
+                  * 13.3pulg., 2560 x 1600 Pixeles
+                  * 8 GB, LPDDR3-SDRAM
+                  * 256 GB, no
+                  * macOS Sierra
+
+Precio: $34,979.00 MXN
+
+______________________________________________________________________

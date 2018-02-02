@@ -1,0 +1,83 @@
+                      Dispositivos de entrada
+                            (Teclados)
+______________________________________________________________________
+
+ID: 14
+
+Articulo: Teclado Gamer Kingston HyperX Alloy FPS LED Rojo
+          Teclado Mecanico, Cherry MX Blue, Alambrico, 
+          Negro (Espanol)
+Cantidad: 32
+Especificaciones: * Interfaz del dispositivo: USB
+                  * Tecnologia de conectividad: Alambrico
+                  * Formato del teclado: Estandar
+                  * Diseno de teclado: QWERTY
+                  * Longitud de cable: 1,8 m
+                  * Retroiluminacion: si
+
+Precio: $1,639.00 MXN
+
+______________________________________________________________________
+
+ID: 15
+
+Articulo: Teclado Gamer Logitech G213 Prodigy LED RGB,
+          Alambrico, Negro, (Ingles)
+Cantidad: 41
+Especificaciones: * Interfaz del dispositivo: USB
+                  * Tecnología de conectividad: Alambrico
+                  * Formato del teclado: Estandar
+                  * Diseno de teclado: QWERTY
+                  * Longitud de cable: 1,8 m
+                  * Retroiluminacion: si 
+
+Precio: $859.00 MXN
+
+______________________________________________________________________
+
+ID: 16
+
+Articulo: Teclado Gamer Logitech G910 Orion Spark RGB,
+          Teclado Mecanico, Alambrico, USB, Negro, 
+          (Ingles)
+Cantidad: 21
+Especificaciones: * Interfaz del dispositivo: USB
+                  * Tecnología de conectividad: Alambrico
+                  * Formato del teclado: Estandar
+                  * Longitud de cable: 1,8 m
+                  * Retroiluminacion: si 
+
+Precio: $3,619.00 MXN
+
+______________________________________________________________________
+
+ID: 17
+
+Articulo: Teclado Gamer Corsair K70 Lux RGB, Teclado 
+          Mecanico, Cherry MX Red, Alambrico, Negro 
+          (Espanol)
+Cantidad: 23
+Especificaciones: * Interfaz del dispositivo: USB
+                  * Tecnologia de conectividad: Alambrico
+                  * Formato del teclado: Estandar
+                  * Diseno de teclado: QWERTY
+                  * Retroiluminacion: si 
+
+Precio: $3,099.00 MXN
+
+______________________________________________________________________
+
+ID: 18
+
+Articulo: Teclado Gamer Razer BlackWidow Chroma V2 LED 
+          RGB, Teclado Mecanico, Alambrico, Negro 
+          (Espanol)
+Cantidad: 40
+Especificaciones: * Interfaz del dispositivo: USB
+                  * Tecnologia de conectividad: Alambrico
+                  * Formato del teclado: Estandar
+                  * Retroiluminacion: si 
+
+Precio: $3,489.00 MXN
+
+______________________________________________________________________

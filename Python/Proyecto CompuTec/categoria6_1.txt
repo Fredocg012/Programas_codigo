@@ -1,0 +1,60 @@
+			Sistemas Operativos
+______________________________________________________________________
+
+ID: 104
+
+Articulo: Microsoft Windows 10 Pro Espanol, 64-bit, 1 Usuario, OEM
+Cantidad: ilimitado	
+Especificaciones: *Tipo de licencia: Original equipment manufacturer (OEM)
+		  *Version de idioma: Espanol
+
+Precio: $ 3,369.00 MXN
+______________________________________________________________________
+
+ID: 105
+
+Articulo: Microsoft Windows 10 Home, 32/64-bit, 1PC, Plurilingue, FPP
+	  Producto Digital Descargable
+Cantidad: ilimitado
+Especificaciones: *Tipo de licencia: Full packaged product (FPP)
+		  *Espacio minimo del disco duro: 20 GB
+		  *Memoria RAM minima: 2 GB
+		  *Version de idioma: Plurilingue
+
+Precio: $ 2,439.00 MXN
+______________________________________________________________________
+
+ID: 106
+
+Articulo: Microsoft Windows 8 Pro Espanol, 32-bit, DVD, OEM
+Cantidad: ilimitado
+Especificaciones: *Tipo de licencia: Original equipment manufacturer (OEM)
+		  *Espacio minimo del disco duro: 20 GB
+		  *Memoria RAM minima: 2 GB
+		  *Version de idioma: Espanol
+
+Precio: $ 2,459.00 MXN
+______________________________________________________________________
+
+ID: 107
+
+Articulo: Microsoft Windows 10 Pro, 32/64-bit, 1 Usuario, FPP	
+Cantidad: ilimitado
+Especificaciones: *Tipo de licencia: Full packaged product (FPP)
+		  *Espacio minimo del disco duro: 20 GB
+		  *Memoria RAM minima: 1 GB
+		  *Version de idioma: Ingles  	
+
+Precio: $ 5,029 MXN
+______________________________________________________________________
+
+ID: 108
+
+Articulo: Microsoft Windows 10 Pro, 32/64-bit, 1 PC, Plurilingue, FPP
+	  Producto Digital Descargable	
+Cantidad: ilimitado	
+Especificaciones: *Espacio minimo del disco duro: 20 GB
+		  *Memoria RAM minima: 2 GB
+		  *Version de idioma: Plurilingue
+Precio: $ 4,489.00 MXN
+______________________________________________________________________

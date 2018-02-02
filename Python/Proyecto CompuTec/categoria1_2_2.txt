@@ -1,0 +1,57 @@
+                      Tarjetas de video
+                        (Uso esencial)
+______________________________________________________________________
+
+ID: 11
+
+Articulo: Tarjeta de Video PNY NVIDIA GeForce GTX 750
+Cantidad: 32
+Especificaciones: * Graficos discretos memoria del 
+                    adaptador: 1 GB
+                  * Ancho de datos: 128 bitx, Tipo de 
+                    memoria: GDDR5x
+                  * Frecuencia del procesador: 1020 MHz
+                  * Frecuencia Boost: 1085 MHz
+                  * Tipo de interfaz: PCI Express 3.0 
+                    DVI-I: 1x
+
+Precio: $2,229.00 MXN
+
+______________________________________________________________________
+
+ID: 12
+
+Articulo: Tarjeta de Video Gigabyte NVIDIA GeForce GTX 1050
+          Ti OC
+Cantidad: 34
+Especificaciones: * Graficos discretos memoria del 
+                    adaptador: 4 GB
+                  * Ancho de datos: 128 bitx, Tipo de 
+                    memoria: GDDR5x
+                  * Frecuencia del procesador: 1290 MHz
+                  * Frecuencia Boost: 1392 MHz
+                  * Nucleos CUDA: 768
+                  * Tipo de interfaz: PCI Express x16 3.0
+                  * HDMI: 1x, DisplayPort: 1x
+
+Precio: $3,229.00 MXN
+
+______________________________________________________________________
+
+ID: 13
+
+Articulo: Tarjeta de Video EVGA NVIDIA GeForce GTX 1050 Ti SC 
+          GAMING
+Cantidad: 45
+Especificaciones: * Graficos discretos memoria del adaptador: 
+                    4 GB
+                  * Ancho de datos: 128 bitx, Tipo de memoria: 
+                    GDDR5x
+                  * Frecuencia del procesador: 1354 MHz
+                  * Frecuencia Boost: 1468 MHz
+                  * Tipo de interfaz: PCI Express x16 3.0
+                  * HDMI: 1x, DisplayPort: 3x
+
+Precio: $3,359.00 MXN
+
+______________________________________________________________________

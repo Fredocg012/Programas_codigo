@@ -1,0 +1,86 @@
+                            LapTop
+______________________________________________________________________
+
+ID: 59
+
+Articulo: Lenovo ThinkPad E570
+Cantidad: 12
+Especificaciones: * Familia de procesador: Intel Core 
+                    i5-7xxx
+                  * Diagonal de la pantalla: 15.6pulg.
+                  * Memoria interna: 4 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 1000 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Pro
+
+Precio: $17,089.00 MXN
+
+______________________________________________________________________
+
+ID: 60
+
+Articulo: Dell Inspiron 3567
+Cantidad: 12
+Especificaciones: * Familia de procesador: Intel Core 
+                    i3-6xxx
+                  * Diagonal de la pantalla: 15.6pulg.
+                  * Memoria interna: 4 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 1000 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Home
+
+Precio: $9,099.00 MXN
+
+______________________________________________________________________
+
+ID: 61
+
+Articulo: Lenovo IdeaPad 110-141BR
+Cantidad:16
+Especificaciones: * Familia de procesador: Intel Celeron
+                  * Diagonal de la pantalla: 14pulg.
+                  * Memoria interna: 4 GB
+                  * Tipo de memoria interna: DDR3L-SDRAM
+                  * Capacidad total de almacenaje: 500 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Home
+
+Precio: $5,219.00 MXN
+
+______________________________________________________________________
+
+ID: 62
+
+Articulo: HP ProBook 440 G3
+Cantidad: 18
+Especificaciones: * Familia de procesador: Intel Core 
+                    i7-6xxx
+                  * Diagonal de la pantalla: 14pulg.
+                  * Memoria interna: 8 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 1000 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Home
+
+Precio: $20,359.00 MXN
+
+______________________________________________________________________
+
+ID: 63
+
+Articulo: Acer Aspire VX5-591G-78RX
+Cantidad: 28
+Especificaciones: * Familia de procesador: Intel Core 
+                    i7-7xxx
+                  * Diagonal de la pantalla: 15.6pulg.
+                  * Memoria interna: 16 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 1128 GB
+                  * Sistema operativo instalado:
+                    Windows 10 Home
+
+Precio: $21,439.00 MXN
+
+______________________________________________________________________

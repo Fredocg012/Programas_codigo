@@ -1,0 +1,75 @@
+                    Impresoras y multifuncionales
+                    (Impresoras a blanco y negro)
+______________________________________________________________________
+
+ID: 44
+
+Articulo: Epson Workforce M105
+Cantidad: 23
+Especificaciones: * Resolucion maxima: 1440 x 720 DPI
+                  * Interfaz estandar: USB 2.0
+                  * Wifi: si
+
+Precio: $2,759.00 MXN
+
+______________________________________________________________________
+
+ID: 45
+
+Articulo: Samsung ProXpress SL-M4020ND
+Cantidad: 27
+Especificaciones: * Capacidad de salida estandar: 
+                    150 hojas
+                  * Resolución máxima: 1200 x 1200 DPI
+                  * Interfaz estandar: Ethernet,
+                    USB 2.0
+                  * Impresion duplex: si
+                  * Wifi: no
+
+Precio: $1,330.00 MXN
+
+______________________________________________________________________
+
+ID: 46
+
+Articulo: Xerox Pasher 5550DT
+Cantidad: 13
+Especificaciones:  * Capacidad de salida estandar: 
+                     500 hojas
+                   * Resolucion maxima: 1200 x 1200 DPI
+                   * Impresion duplex: si
+                   * Wifi: si
+
+Precio: $54,549.00 MXN
+
+______________________________________________________________________
+
+ID: 47
+
+Articulo: HP Laserjet Enterprise 700 M712dn
+Cantidad: 36
+Especificaciones: * Capacidad de salida estandar: 
+                    250 hojas
+                  * Resolucion maxima: 1200 x 1200 DPI
+                  * Interfaz estandar: Ethernet,USB 2.0
+                  * Impresion duplex: si
+                  * Wifi: no
+
+Precio: $89,299.00 MXN
+
+______________________________________________________________________
+
+ID: 48
+
+Articulo: OKI B431DN+
+Cantidad: 17
+Especificaciones: * Capacidad de salida estandar: 
+                    150 hojas
+                  * Resolucion maxima: 1200 x 1200 DPI
+                  * Interfaz estandar: USB 2.0
+                  * Impresion duplex: si
+                  * Wifi:  no
+
+Precio: $6,799.00 MXN
+
+______________________________________________________________________

@@ -1,0 +1,41 @@
+                                 
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *                                                       ACERCA DE ...                                                   *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *                                                         *    *                                                        *
+                                 *                                                  **** *        * ****                                                 *
+                                 *                                                     *     ***    *                                                    *
+                                 *                                               *****      *         *****                                              *
+                                 *                                                     *     ***    *                                                    *
+                                 *                                                  **** *        * ****                                                 *
+                                 *                                                         *    *                                                        *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *                                           ESTRUCTURAS DE DATOS Y ALGORITMOS I                                         *
+                                 *                                                                                                                       *
+                                 *                                                      VERSION 4.2.1                                                    *
+                                 *                                                                                                                       *
+                                 *                                                       Elaboradores                                                    *
+                                 *                                                                                                                       *
+                                 *                                               Jesus Adrian Rosas Martinez                                             *
+                                 *                                                     Juan Andres Cruz                                                  *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *      CompuTec es una  marca comercial que pertenece  a sus legitimos  propietarios, por lo tanto no se garantiza      *
+                                 *                                                                                                                       *
+                                 *      ni se realiza aseveracion alguna con respecto a ella. Ningun precio o caracteristica presentados se utiliza      *
+                                 *                                                                                                                       *
+                                 *      de  manera intencionada en este software , por lo que cualquier similitud  con  con  la  informacion que se      *
+                                 *                                                                                                                       *
+                                 *                                           presenta es absolutamente fortuita.                                         *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *
+                                 *                                                                                                                       *

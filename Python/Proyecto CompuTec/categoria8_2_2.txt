@@ -1,0 +1,77 @@
+                       Telefonia convencional
+                      (Telefonos inalambricos)
+______________________________________________________________________
+
+ID: 159
+
+Articulo: Panasonic KX-TG1711MEB Telefono DECT 6.0, 
+          Inalambrico, Negro
+Cantidad: 36
+Especificaciones: * Pantalla incorporada: si
+                  * Conexion inalambrica: si
+                  * Contestador automatico: no
+                  * Tiempo de conversacion: 15 h
+                  * Color del producto: Negro
+
+Precio: $789.00 MXN
+
+______________________________________________________________________
+
+ID: 160
+
+Articulo: Panasonic Telefono Inalambrico DECT KX-TG6821EB,
+          Altavoz, 1 Auricular, Negro/Plata
+Cantidad: 16
+Especificaciones: * Pantalla incorporada: si
+                  * Altavoz: si
+                  * Conexion inalambrica: si
+                  * Contestador automatico: no
+                  * Tiempo de conversacion: 15 h
+                  * Color del producto: Negro, Plata
+
+Precio: $2,099.00 MXN
+
+______________________________________________________________________
+
+ID: 161
+
+Articulo: Steren Telefono Inalambrico TEL-2480, Altavoz,
+          1 Auricular, Negro
+Cantidad: 19
+Especificaciones: * Pantalla incorporada: si
+                  * Color del producto: Negro
+
+Precio: $939.00 MXN
+
+______________________________________________________________________
+
+ID: 162
+
+Articulo: Alcatel Telefono F330 Voice, DECT, Inalambrico,
+          Altavoz
+Cantidad: 46
+Especificaciones: * Pantalla incorporada: si
+                  * Altavoz: si
+                  * Contestador automatico: si
+                  * Tiempo de conversacion: 10 h
+                  * Color del producto: Negro
+
+Precio: $779.00 MXN
+
+______________________________________________________________________
+
+ID: 163
+
+Articulo: Panasonic Telefono Inalambrico KX-TG6823MEB, 
+          DECT, Altavoz, Negro/Plata
+Cantidad: 31
+Especificaciones: * Pantalla incorporada: si
+                  * Altavoz: si
+                  * Conexion inalambrica: si
+                  * Contestador automatico: si
+                  * Tiempo de conversacion: 15 h
+                  * Color del producto: Negro, Plata
+
+Precio: $3,429.00 MXN
+
+______________________________________________________________________

@@ -1,0 +1,61 @@
+			Disenio y Multimedia
+______________________________________________________________________
+
+ID: 119
+
+Articulo: CorelDraw Graphics Suite 2017, 1PC, 1 Anio, Windows
+Cantidad: ilimitado	
+Especificaciones: *Espacio minimo del disco duro: 1000 MB
+		  *Version de idioma: BRA, Espaniol
+		  *Version de idioma: Espaniol
+
+Precio: $ 4,679.00 MXN
+______________________________________________________________________
+
+ID: 120
+
+Articulo: FL Studio 12.5.1.5 Producer Edition
+Cantidad: ilimitado
+Especificaciones: *2Ghz Intel Pentium 4 / AMD Athlon 64 (or later) 
+		   compatible CPU with full SSE2 support.
+		  *2 or 64 Bit versions of Windows 10/8.0/8.1/7, 
+		   Vista, XP (service pack 3)
+		  *1 Gb or more RAM recommended
+		  *2 Gb free disk space
+
+Precio: $ 659.00 MXN
+______________________________________________________________________
+
+ID: 121
+
+Articulo: Blender 2.79
+Cantidad: ilimitado
+Especificaciones: *64-bit CPU de cuatro nucleos
+		  *8 GB de RAM
+		  *Pantalla Full HD con 24 bits de color
+		  *Tres boton del raton
+		  *Tarjeta grafica compatible con OpenGL, con 1 GB de RAM
+
+Precio: $ 200.00 MXN
+______________________________________________________________________
+
+ID: 122
+
+Articulo: Adobe Photoshop CC 2017.1.1	
+Cantidad: ilimitado
+Especificaciones: *Procesador Intel Core 2 o AMD Athlon 64 (2 GHz o mas rapido)
+		  *Microsoft Windows 7 con Service Pack 1, Windows 8.1 o Windows 10
+		  *2 GB o mas de RAM (se recomiendan 8 GB)
+
+Precio: $ 390.00 MXN
+______________________________________________________________________
+
+ID: 123
+
+Articulo: Corel CorelDRAW Graphics Suite X8 Espaniol, para Windows
+Cantidad: ilimitado	
+Especificaciones: *Procesador minimo: Intel Core i3/5/7, AMD Athlon 64
+		  *Espacio minimo del disco duro: 1024 MB
+		  *Version de idioma: Espaniol
+Precio: $ 12,139.00 MXN
+______________________________________________________________________

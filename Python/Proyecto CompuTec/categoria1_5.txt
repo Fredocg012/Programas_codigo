@@ -1,0 +1,83 @@
+                          Procesadores
+______________________________________________________________________
+
+ID: 34
+
+Articulo: Procesador AMD Ryzen 5 1600, S-AM4, 3.20GHz, 
+          Six-Core
+Cantidad: 32
+Especificaciones: * Familia de procesador: AMD Ryzen 5
+                  * Modelo del procesador: 1600
+                  * Frecuencia del procesador: 3,2 GHz
+                  * Socket de procesador: Socket AM4
+                  * Numero de nucleos: 6
+
+Precio: $4,029.00 MXN
+
+______________________________________________________________________
+
+ID: 35
+Articulo: Procesador Intel Core i5-7400, S-1151, 3GHz, 
+          Quad-Core, 6MB Smart Cache 
+          (7ma. Generación - Kaby Lake)
+Cantidad: 21 
+Especificaciones: * Familia de procesador: Intel 
+                    Core i5-7xxx
+                  * Modelo del procesador: i5-7400
+                  * Frecuencia del procesador: 3 GHz
+                  * Socket de procesador: LGA1151
+                  * Numero de nucleos: 4
+
+Precio: $3,379.00 MXN
+
+______________________________________________________________________
+
+ID: 36
+
+Articulo: Procesador Intel Core i7-7700K, S-1151, 
+          4.20GHz, Quad-Core, 8MB Smart Cache 
+          (7ma. Generación - Kaby Lake)
+Cantidad: 23
+Especificaciones: * Familia de procesador: Intel Core 
+                    i7-7xxx
+                  * Modelo del procesador: i7-7700K
+                  * Frecuencia del procesador: 4,2 GHz
+                  * Socket de procesador: LGA1151
+                  * Numero de nucleos: 4
+
+Precio: $6,609.00 MXN
+
+______________________________________________________________________
+
+ID: 37
+
+Articulo: Procesador AMD Ryzen 7 1700, S-AM4, 3GHz, 
+          8-Core, 16MB L3 Cache
+Cantidad: 12
+Especificaciones: * Familia de procesador: AMD Ryzen 7
+                  * Modelo del procesador: 1700
+                  * Frecuencia del procesador: 3 GHz
+                  * Socket de procesador: Socket AM4
+                  * De cache L3: 16 MB
+                  * Numero de nucleos: 8
+
+Precio: $5,889.00 MXN
+
+______________________________________________________________________
+
+ID: 38
+
+Articulo: Procesador Intel Core i7-7700, S-1151, 
+          3.60GHz, Quad-Core, 8MB Smart Cache 
+          (7ma. Generación - Kaby Lake)
+Cantidad: 34
+Especificaciones: * Familia de procesador: Intel 
+                    Core i7-7xxx
+                  * Modelo del procesador: i7-7700
+                  * Frecuencia del procesador: 3,6 GHz
+                  * Socket de procesador: LGA1151
+                  * Numero de nucleos: 4
+
+Precio: $5,849.00 MXN
+
+______________________________________________________________________

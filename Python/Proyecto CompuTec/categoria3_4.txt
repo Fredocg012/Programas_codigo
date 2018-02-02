@@ -1,0 +1,79 @@
+                            All in One
+______________________________________________________________________
+
+ID: 69
+
+Articulo: Dell OptiPlex 3030 All-in-One
+Cantidad: 29
+Especificaciones: * Familia de procesador: Intel Core 
+                    i3-4xxx
+                  * Memoria interna: 4 GB
+                  * Tipo de memoria interna: DDR3L-SDRAM
+                  * Capacidad total de almacenaje: 500 GB
+                  * Sistema operativo instalado: 
+                    Windows 7 Professional
+
+Precio: $16,619.00 MXN
+
+______________________________________________________________________
+
+ID: 70
+
+Articulo: Lenovo IdeaCentre 510S All-in-One
+Cantidad: 12
+Especificaciones: * Familia de procesador: Intel Core 
+                    i5-6xxx
+                  * Memoria interna: 16 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 1000 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Home
+
+Precio: $4,709.00 MXN
+
+______________________________________________________________________
+
+ID: 71
+
+Articulo: Samsung Galaxy Brook
+Cantidad: 3
+Especificaciones: * Diagonal de la pantalla: 10.6pulg.
+                  * Resolucion de la pantalla: 
+                    1920 x 1280 Pixeles
+                  * Sistema operativo instalado: 
+                    Windows 10 Home
+                  * Color del producto: Negro
+
+Precio: $24,039.00 MXN
+
+______________________________________________________________________
+
+ID: 72
+
+Articulo: HP 200 205 All-in-One G3
+Cantidad: 17
+Especificaciones: * Familia de procesador: AMD E
+                  * Memoria interna: 4 GB
+                  * Tipo de memoria interna: DDR3L-SDRAM
+                  * Capacidad total de almacenaje: 1000 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Pro
+
+Precio: $9,849.00 MXN
+
+______________________________________________________________________
+
+ID: 73
+
+Articulo: Acer Aspire Z1 All-in-One
+Cantidad: 34
+Especificaciones: * Familia de procesador: Intel Celeron
+                  * Memoria interna: 4 GB
+                  * Tipo de memoria interna: DDR3L-SDRAM
+                  * Capacidad total de almacenaje: 500 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Home
+
+Precio: $7,259.00 MXN
+
+______________________________________________________________________

@@ -1,0 +1,116 @@
+﻿				Energia
+______________________________________________________________________
+
+ID: 94
+
+Articulo: No Break APC Back-ups BE550G-LM
+Cantidad: 12	
+Especificaciones: *Capacidad de potencia de salida (VA): 550 VA
+		  *Potencia de salida: 330 W
+		  *Cantidad de salidas AC: 8
+
+
+Precio: $ 1,349.00 MXN
+______________________________________________________________________
+
+ID: 95
+
+Articulo: No Break CyberPower LX1325G
+Cantidad: 4
+Especificaciones: *Capacidad de potencia de salida (VA): 1,325 VA
+		  *Potencia de salida: 810 W
+		  *Indice de aumento de energia: 1500 J
+		  *Cantidad de salidas AC: 7
+		  *Color del producto: Negro
+
+Precio: $ 2,339.00 MXN
+______________________________________________________________________
+
+ID: 96
+
+Articulo: Regulador Total Ground Suprector Soho
+Cantidad: 14
+Especificaciones: *Voltaje nominal de entrada: 120-220
+
+Precio: $ 1,979.00 MXN
+______________________________________________________________________
+
+ID: 97
+
+Articulo: Sony Pilas Recargables AAA	
+Cantidad: 6
+Especificaciones: *Tamano de bateria cilindrica: AAA
+		  *Tecnologia de bateria: Alcalino
+		  *Voltaje de la pila: 1,2 V
+		  *Numero de baterias incluidas: 2	
+
+Precio: $ 173.00 MXN
+______________________________________________________________________
+
+ID: 98
+
+Articulo: Sony Kit  Cargador para 1-4 pilas AA o AAA	
+Cantidad: 12	
+Especificaciones: *Tipo de bateria: AAA, AA
+		  *Frecuencia de entrada: 50/60
+		  *Numero de baterias soportadas: 4
+
+Precio: $ 356.00 MXN
+______________________________________________________________________
+
+ID: 99
+
+Articulo: Duracell Pila MN1500 Plus AA
+Cantidad: 6	
+Especificaciones: *Tipo de bateria: AA
+		  *Tecnologia de bateria: Alcalino
+		  *Voltaje de la pila: 1,5 V
+		  *Numero de baterias incluidas: 4
+
+
+Precio: $ 96.00 MXN
+______________________________________________________________________
+
+ID: 100
+
+Articulo: BRobotix Bateria CMOS CR2032
+Cantidad: 15
+Especificaciones: *Tecnologia de bateria: Litio
+		  *Voltaje de la pila: 3 V
+		  *Numero de baterias incluidas: 3
+
+Precio: $ 83.00 MXN
+______________________________________________________________________
+
+ID: 101
+
+Articulo: Tripp Lite Supresor de Picos Protect It!
+Cantidad: 23
+Especificaciones: *Cantidad de salidas AC: 7
+		  *Voltaje nominal de entrada: 120
+		  *Longitud de cable: 3,66 m
+
+Precio: $ 452.00 MXN
+______________________________________________________________________
+
+ID: 102
+
+Articulo: APC Supresor de Picos P11VNT3	
+Cantidad: 26
+Especificaciones: *Cantidad de salidas AC: 11 salidas AC
+		  *Voltaje nominal de entrada: 120
+		  *Voltaje de la pila: 1,2 V
+		  *Numero de baterias incluidas: 2	
+
+Precio: $ 819.00 MXN
+______________________________________________________________________
+
+ID: 103
+
+Articulo: Forza Power Technologies Multicontactos FPS--005B	
+Cantidad: 29	
+Especificaciones: *Cantidad de salidas AC: 6
+		  *Longitud de cable: 0,9 m
+
+Precio: $ 100.00 MXN
+______________________________________________________________________

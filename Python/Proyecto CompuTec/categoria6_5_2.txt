@@ -1,0 +1,61 @@
+			Videojuegos Xbox 360
+______________________________________________________________________
+
+ID: 129
+
+Articulo: Gears of War 3, Xbox 360 ? Producto Digital Descargable
+Cantidad: ilimitado	
+Especificaciones: *Genero: TPS (tercera persona tiradora)
+		  *Rango ESRB: M (Maduro)
+		  *Fecha de lanzamiento: 20.09.2011
+		  *Plataforma: Xbox 360
+
+Precio: $ 297.00 MXN
+______________________________________________________________________
+
+ID: 130
+
+Articulo: Halo 4, Xbox 360 ? Producto Digital Descargable
+Cantidad: ilimitado
+Especificaciones: *Genero: Accion
+		  *Rango ESRB: M (Maduro)
+		  *Fecha de lanzamiento: 05/12/2012
+		  *Idioma: Aleman
+		  *Plataforma: Xbox One
+
+Precio: $ 490.00 MXN
+______________________________________________________________________
+
+ID: 131
+
+Articulo: Grand Theft Auto IV, Xbox 360 ? Producto Digital Descargable
+Cantidad: ilimitado
+Especificaciones: *Genero: Aventura
+		  *Rango ESRB: M (Maduro)
+		  *Fecha de lanzamiento: 30/10/2008
+		  *Plataforma: Xbox 360
+
+Precio: $ 392.00 MXN
+______________________________________________________________________
+
+ID: 132
+
+Articulo: Halo 3, Xbox One ? Producto Digital Descargable
+Cantidad: ilimitado
+Especificaciones: *Genero: Accion
+		  *Rango ESRB: M (Maduro)
+		  *Fecha de lanzamiento: 5/07/2010
+		  *Plataforma: Xbox One	$ 294.00
+
+Precio: $ 294.00 MXN
+______________________________________________________________________
+
+ID: 133
+
+Articulo: Fallout 3, Xbox 360 ? Producto Digital Descargable
+Cantidad: ilimitado	
+Especificaciones: *Genero: RPG (juego de rol)
+		  *Rango ESRB: M (Maduro)
+		  *Plataforma: Xbox 360
+Precio: $ 196.00 MXN
+____________________________________________________________________

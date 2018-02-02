@@ -1,0 +1,78 @@
+                         Telefonia movil
+______________________________________________________________________
+
+ID: 149
+
+Articulo: Sony Ericsson W395, 176 x 220 Pixeles, Rosa
+Cantidad: 19
+Especificaciones: * Diagonal de la pantalla: 2pulg.
+                  * Pantalla tactil: no
+                  * Bluetooth: si
+                  * Color del producto: Rosa
+
+Precio: $2,079.00 MXN
+
+______________________________________________________________________
+
+ID: 150
+
+Articulo: Celular Bleck Spark 1.7", SIM Doble, Negro
+Cantidad: 47
+Especificaciones: * Diagonal de la pantalla: 1.77pulg.
+                  * Pantalla tactil: no
+                  * Bluetooth: si
+                  * Color del producto: Negro
+
+Precio: $293.00 MXN
+
+______________________________________________________________________
+
+ID: 151
+
+Articulo: Sony Ericsson W205, 128 x 160 Pixeles, Negro
+Cantidad: 26
+Especificaciones: * Diagonal de la pantalla: 1.8pulg.
+                  * Pantalla tactil: no
+                  * Bluetooth: si
+                  * Color del producto: Negro
+
+Precio: $1,389.00 MXN
+
+______________________________________________________________________
+
+ID: 152
+
+Articulo: TP-Link Neffos X1 Max 5.5'', 1920 x 1080 
+          Pixeles, WiFi + 4G, Android 6.0, 8 Nucleos 
+          (4*Cortex-A53 2GHz + 4*Cortex-A53 1.20GHz) 
+          Negro/Gris
+Cantidad: 30
+Especificaciones: * Diagonal de la pantalla: 5.5pulg.
+                  * Capacidad de almacenamiento interno: 
+                    32 GB
+                  * 4G: si
+                  * Version de sistema operativo: 6.0 
+                    Marshmallow
+                  * Color del producto: Negro, Gris
+                  * Color del producto: si
+
+Precio: $4,859.00 MXN
+
+______________________________________________________________________
+
+ID: 153
+
+Articulo: Smartphone Lanix Ilium L1100 5'', 4G, Android
+          5.1, Negro
+Cantidad: 22
+Especificaciones: * Diagonal de la pantalla: 5pulg.
+                  * Capacidad de almacenamiento interno:
+                    32 GB
+                  * 4G: si
+                  * Version de sistema operativo: 5.1 
+                    Lollipop
+                  * Color del producto: Negro
+
+Precio: $5,159.00 MXN
+
+______________________________________________________________________

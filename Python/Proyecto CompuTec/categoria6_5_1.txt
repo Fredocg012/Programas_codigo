@@ -1,0 +1,59 @@
+			Videojuegos Xbox ONE
+______________________________________________________________________
+
+ID: 124
+
+Articulo: Cuphead, Xbox One Producto Digital Descargable
+Cantidad: ilimitado	
+Especificaciones: *Genero: Accion
+		  *Rango ESRB: E10 + (Everyone 10 +)
+		  *Fecha de lanzamiento: 29/10/2017
+		  *Plataforma: Xbox One
+
+Precio: $ 343.00 MXN
+______________________________________________________________________
+
+ID: 125
+
+Articulo: Minecraft: Xbox One Edition ? Producto Digital Descargable
+Cantidad: ilimitado
+Especificaciones: *Genero: Accion
+		  *Rango ESRB: E10 + (Everyone 10 +)
+		  *Fecha de lanzamiento: 04/10/2014
+
+Precio: $ 490.00 MXN
+______________________________________________________________________
+
+ID: 126
+
+Articulo: Minecraft: Xbox One Edition ? Producto Digital Descargable
+Cantidad: ilimitado
+Especificaciones: *Genero: Accion
+		  *Rango ESRB: E10 + (Everyone 10 +)
+		  *Plataforma: Xbox One
+
+Precio: $ 1,579.00 MXN
+______________________________________________________________________
+
+ID: 127
+
+Articulo: Halo 3, Xbox One ? Producto Digital Descargable
+Cantidad: ilimitado
+Especificaciones: *Genero: Accion
+		  *Rango ESRB: M (Maduro)
+		  *Fecha de lanzamiento: 5/07/2010
+		  *Plataforma: Xbox One	$ 294.00
+
+Precio: $ 294.00 MXN
+______________________________________________________________________
+
+ID: 128
+
+Articulo: Battlefield Hardline Deluxe Edition, Xbox One ? Producto Digital Descargable
+Cantidad: ilimitado	
+Especificaciones: *Genero: FPS (Disparos en primera persona)
+		  *Rango ESRB: M (Maduro)
+		  *Fecha de lanzamiento: 17/03/2015
+		  *Plataforma: Xbox One
+Precio: $ 589.00 MXN
+______________________________________________________________________

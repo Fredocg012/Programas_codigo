@@ -1,0 +1,92 @@
+                            Workstations
+______________________________________________________________________
+
+ID: 74
+
+Articulo: HP Z240
+Cantidad: 32
+Especificaciones: * Familia de procesador: Intel Core 
+                    i7-6xxx
+                  * Modelo del procesador: i7-6700K
+                  * Frecuencia del procesador: 4 GHz
+                  * Memoria interna: 8 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 1000 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Pro
+
+Precio: $28,429.00 MXN
+
+______________________________________________________________________
+
+ID: 75
+
+Articulo: Lenovo P310 SFF
+Cantidad: 19
+Especificaciones: * Familia de procesador: Intel Core 
+                    i3-6xxx
+                  * Modelo del procesador: i3-6100
+                  * Frecuencia del procesador: 3,7 GHz
+                  * Memoria interna: 4 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 500 GB
+                  * Sistema operativo instalado:
+                    Windows 10 Pro
+
+Precio: $17,549.00 MXN
+
+______________________________________________________________________
+
+ID: 76
+
+Articulo: HP Z840
+Cantidad: 32
+Especificaciones: * Familia de procesador: Intel Xeon 
+                    E5 v3
+                  * Modelo del procesador: E5-2650V3
+                  * Frecuencia del procesador: 2,3 GHz
+                  * Memoria interna: 16 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 1128 GB
+                  * Sistema operativo instalado: 
+                    Windows 7 Professional
+
+Precio: $109,119.00 MXN
+
+______________________________________________________________________
+
+ID: 77
+
+Articulo: HP Z440
+Cantidad: 25
+Especificaciones: * Familia de procesador: Intel Xeon 
+                    E5 v4
+                  * Modelo del procesador: E5-1620V4
+                  * Frecuencia del procesador: 3,5 GHz
+                  * Memoria interna: 8 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 1000 GB
+                  * Sistema operativo instalado:
+                    Windows 10 Pro
+
+Precio: $55,079.00 MXN
+
+______________________________________________________________________
+
+ID: 78
+
+Articulo: Lenovo ThinkStation P710
+Cantidad: 19
+Especificaciones: * Familia de procesador: Intel Xeon 
+                    E5 v4
+                  * Modelo del procesador: E5-1603V4
+                  * Frecuencia del procesador: 3,7 GHz
+                  * Memoria interna: 16 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 2180 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Pro
+
+Precio: $68,009.00 MXN
+
+______________________________________________________________________

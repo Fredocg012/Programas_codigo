@@ -1,0 +1,73 @@
+                            Discos duros
+                   (Discos duros internos para PC)
+______________________________________________________________________
+
+ID: 24
+
+Articulo: Disco Duro Interno Seagate Barracuda 3.5'', 
+          1TB, SATA III, 6 Gbit/s, 7200RPM, 64MB Cache
+Cantidad: 23
+Especificaciones: * Capacidad: 1000 GB
+                  * Velocidad de rotacion: 7200 RPM
+                  * Tamano de disco duro: 3.5pulg.
+                  * Interfaz: Serial ATA
+
+Precio: $829.00 MXN
+
+______________________________________________________________________
+
+ID: 25
+
+Articulo: Disco Duro Interno Seagate Barracuda 3.5'', 
+          4TB, SATA III, 6 Gbit/s, 7200RPM, 256MB Cache
+Cantidad: 21
+Especificaciones: * Capacidad: 4000 GB
+                  * Tamano de disco duro: 3.5pulg.
+                  * Interfaz: Serial ATA III
+
+Precio: $2,109.00 MXN
+
+______________________________________________________________________
+
+ID: 26
+
+Articulo: Disco Duro Interno Seagate IronWolf 3.5'', 
+          8TB, SATA III, 6 Gbit/s, 7200RPM, 
+          256MB Cache - para NAS
+Cantidad: 34
+Especificaciones: * Capacidad: 8000 GB
+                  * Velocidad de rotacion: 7200 RPM
+                  * Tamano de disco duro: 3.5pulg.
+                  * Interfaz: Serial ATA III
+
+Precio: $5,419.00 MXN
+
+______________________________________________________________________
+
+ID: 27
+
+Articulo: Disco Duro Interno Seagate IronWolf 3.5", 
+          6TB, SATA III, 6 Gbit/s, 7200RPM, 
+          128MB Cache - para NAS de 1 a 8 Bahias
+Cantidad: 32
+Especificaciones: * Capacidad: 6000 GB
+                  * Velocidad de rotacion: 7200 RPM
+                  * Tamano de disco duro: 3.5pulg.
+                  * Interfaz: Serial ATA III
+
+Precio: $4,259.00 MXN
+
+______________________________________________________________________
+
+ID: 28
+
+Articulo: Disco Duro Interno Seagate Archive HDD v2 3.5'',
+          8TB, SATA III, 6 Gbit/s, 128MB Cache
+Cantidad: 27
+Especificaciones: * Capacidad: 8000 GB
+                  * Tamano de disco duro: 3.5pulg.
+                  * Interfaz: Serial ATA III
+
+Precio: $4,549.00 MXN
+
+______________________________________________________________________

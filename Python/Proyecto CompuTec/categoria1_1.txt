@@ -1,0 +1,66 @@
+                        Tarjetas Madre
+______________________________________________________________________
+
+ID: 1
+
+Articulo: Tarjeta Madre Gigabyte ATX GA-Z270XP-SLI
+Cantidad: 16
+Especificaciones: * Familia de procesador: Intel
+ 	          * Socket de procesador: LGA1151
+		  * Memoria interna, maximo: 64 GB
+		  * Tipo de memoria: DDR4-SDRAM
+
+Precio: $2,549.00 MXN
+
+______________________________________________________________________
+
+ID: 2
+
+Articulo: Tarjeta Madre ASUS ATX ROG STRIX B250F GAMING
+Cantidad: 14
+Especificaciones: * Familia de procesador: Intel
+ 		  * Socket de procesador: LGA1151
+ 		  * Memoria interna, maximo: 64 GB
+ 		  * Tipo de memoria: DDR4-SDRAM
+
+Precio: $2,469.00 MXN
+
+______________________________________________________________________
+
+ID: 3
+
+Articulo: Tarjeta Madre Gigabyte ATX GA-Gaming B8
+Cantidad: 23
+Especificaciones: * Familia de procesador: Intel
+		  * Socket de procesador: LGA1151
+ 		  * Memoria interna, maximo: 64 GB
+ 		  * Tipo de memoria: DDR4-SDRAM
+
+Precio: $2,049.00 MXN
+
+______________________________________________________________________
+
+ID: 4
+
+Articulo: Tarjeta Madre AORUS ATX GA-Z270X-Gaming K5
+Cantidad: 13
+Especificaciones: * Familia de procesador: Intel
+ 		  * Socket de procesador: LGA1151
+ 		  * Memoria interna, maximo: 64 GB
+ 		  * Tipo de memoria: DDR4-SDRAM
+
+Precio: $3,169.00 MXN
+
+______________________________________________________________________
+
+ID: 5
+
+Articulo: Tarjeta Madre ASUS ATX Rog Strix Z270F Gaming
+Cantidad: 13
+Especificaciones: * Familia de procesador: Intel
+ 		  * Socket de procesador: LGA1151
+ 		  * Tipo de memoria: DDR4-SDRAM
+
+Precio: $4,009.00 MXN
+
+______________________________________________________________________

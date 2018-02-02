@@ -1,0 +1,80 @@
+                      Dispositivos de entrada
+                              (Mouse)
+______________________________________________________________________
+
+ID: 19
+
+Articulo: Mouse Gamer Logitech Optico G502 Proteus 
+          Spectrum, Alambrico, 12000DPI, USB, Negro/Azul
+Cantidad: 21
+Especificaciones: * Tecnologia de deteccion de 
+                    movimientos: Optico
+                  * Cantidad de botones: 10
+                  * Resolucion de movimiento: 12000 DPI
+                  * Color del producto: Negro, Azul
+
+Precio: $839.00 MXN
+
+
+______________________________________________________________________
+
+ID: 20
+
+Articulo: Mouse Gamer Logitech Optico G203 Prodigy, 
+          Alambrico, USB, 6000DPI, Negro
+Cantidad: 30
+Especificaciones: * Tecnologia de deteccion de 
+                    movimientos: Optico
+                  * Cantidad de botones: 6
+                  * Resolucion de movimiento: 6000 DPI
+                  * Color del producto: Negro
+
+Precio: $410.00 MXN
+
+______________________________________________________________________
+
+ID: 21
+
+Articulo: Mouse Gamer Kingston Optico HyperX Pulsefire 
+          FPS, Alambrico, USB, 3200DPI, Negro
+Cantidad: 23
+Especificaciones: * Tecnologia de deteccion de 
+                    movimientos: Optico
+                  * Tecnologia de conectividad: Alambrico
+                  * Cantidad de botones: 6
+                  * Resolucion de movimiento: 3200 DPI
+                  * Color del producto: Negro
+
+Precio: $659.00 MXN
+
+______________________________________________________________________
+
+ID: 22
+
+Articulo: Mouse Genius Optico DX-110, Alambrico, USB, 
+          1000DPI, Negro
+Cantidad: 34
+Especificaciones: * Tecnologia de deteccion de 
+                    movimientos: Optico
+                  * Cantidad de botones: 3
+                  * Resolucion de movimiento: 1000 DPI
+                  * Color del producto: Negro
+
+Precio: $81,00 MXN
+
+______________________________________________________________________
+
+ID: 23
+
+Articulo: Mouse Gamer Razer Optico DeathAdder Elite, 
+          Alambrico, USB, 16.000DPI, Negro
+Cantidad: 33
+Especificaciones: * Tecnologia de deteccion de 
+                    movimientos: Optico
+                  * Cantidad de botones: 7
+                  * Resolucion de movimiento: 16000 DPI
+                  * Color del producto: Negro
+
+Precio: $1,249.00 MXN
+
+______________________________________________________________________

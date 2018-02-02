@@ -1,0 +1,68 @@
+                       Telefonia convencional
+                       (Telefonos alambricos)
+______________________________________________________________________
+
+ID: 154
+
+Articulo: Panasonic Telefono Alambrico de 1 Linea 
+          KX-DT521X, Digital, Altavoz, Blanco
+Cantidad: 23
+Especificaciones: * Pantalla incorporada: si
+                  * Altavoz: si
+                  * Color del producto: Blanco
+
+Precio: $2,579.00 MXN
+
+______________________________________________________________________
+
+ID: 155
+
+Articulo: Panasonic Telefono Alambrico KX-TS500, Blanco
+Cantidad: 34
+Especificaciones: * Pantalla incorporada: no
+                  * Contestador automatico: no
+                  * Color del producto: Blanco
+
+Precio: $381.00 MXN
+
+______________________________________________________________________
+
+ID: 156
+
+Articulo: Steren Telefono Alambrico TEL-010, 1 Auricular,
+          Blanco
+Cantidad: 39
+Especificaciones: * Pantalla incorporada: no
+                  * Contestador automatico: no
+                  * Color del producto: Marfil
+
+Precio: $420.00 MXN
+
+______________________________________________________________________
+
+ID: 157
+
+Articulo: Panasonic Telefono KX-T7703X-B, Alambrico, 16 
+          Teclas, Negro
+Cantidad: 12
+Especificaciones: * Pantalla incorporada: si
+                  * Altavoz: no
+                  * Contestador automatico: no
+                  * Color del producto: Negro
+
+Precio: $599.00 MXN
+
+______________________________________________________________________
+
+ID: 158
+
+Articulo: Panasonic Telefono Alambrico de 1 Linea 
+          KX-DT521X, Digital, Altavoz, Negro
+Cantidad: 18
+Especificaciones: * Pantalla incorporada: si
+                  * Altavoz: si
+                  * Color del producto: Negro
+
+Precio: $2,779.00 MXN
+
+______________________________________________________________________

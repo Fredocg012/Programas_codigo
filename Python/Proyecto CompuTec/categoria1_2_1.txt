@@ -1,0 +1,96 @@
+                      Tarjetas de video
+                        (Uso extremo)
+______________________________________________________________________
+
+ID: 6
+
+Articulo: Tarjeta de Video PNY NVIDIA GeForce GTX 1070,
+          8GB 256-bit GDDR5, PCI Express x16 3.0
+Cantidad: 13
+Especificaciones: * Graficos discretos memoria del 
+                    adaptador: 8 GB
+                  * Ancho de datos: 256 bitx, Tipo de
+                    memoria: GDDR5x
+                  * Frecuencia del procesador: 1506 MHz
+                  * Frecuencia Boost: 1683 MHz
+                  * Nucleos CUDA: 1920
+                  * Tipo de interfaz: PCI Express x16 3.0
+                  * HDMI: 1x, DVI-I: 1x, DisplayPort: 3x
+
+Precio: $10,319.00 MXN
+
+______________________________________________________________________
+
+ID: 7
+
+Articulo: Tarjeta de Video PNY NVIDIA GeForce GTX 1080,
+          8GB 256-bit GDDR5X, PCI Express x16 3.0
+Cantidad: 15
+Especificaciones: * Graficos discretos memoria del 
+                    adaptador: 8 GB
+                  * Ancho de datos: 256 bitx, Tipo de 
+                    memoria: GDDR5Xx
+                  * Frecuencia del procesador: 1607 MHz
+                  * Frecuencia Boost: 1733 MHz
+                  * Nucleos CUDA: 2560
+                  * Tipo de interfaz: PCI Express x16 3.0
+                  * HDMI: 1x, DisplayPort: 3x
+
+Precio: $12,489.00 MXN
+
+______________________________________________________________________
+
+ID: 8
+
+Articulo: Tarjeta de Video Gigabyte NVIDIA GeForce GTX 1050
+          Ti Gaming
+Cantidad: 23
+Especificaciones: * Graficos discretos memoria del adaptador:
+                    4 GB
+                  * Ancho de datos: 128 bitx, Tipo de memoria: 
+                    GDDR5x
+                  * Frecuencia del procesador: 1366 MHz
+                  * Frecuencia Boost: 1480 MHz
+                  * Tipo de interfaz: PCI Express x16 3.0
+                  * HDMI: 3x, DisplayPort: 1x
+
+Precio: $3,829.00 MXN
+
+______________________________________________________________________
+
+ID: 9
+
+Articulo: Tarjeta de Video EVGA NVIDIA GeForce GTX 1060 SC 
+          Gaming
+Cantidad: 34
+Especificaciones: * Graficos discretos memoria del adaptador: 
+                    6 GB
+                  * Ancho de datos: 192 bitx, Tipo de memoria:
+                    GDDR5x
+                  * Frecuencia del procesador: 1607 MHz
+                  * Frecuencia Boost: 1835 MHz
+                  * Nucleos CUDA: 1280
+                  * Tipo de interfaz: PCI Express x16 3.0
+                  * HDMI: 1x, DisplayPort: 3x
+
+Precio: $5,679.00 MXN
+
+______________________________________________________________________
+
+ID: 10
+
+Articulo: Tarjeta de Video Gigabyte NVIDIA GeForce GTX 1070 
+          G1 Gaming OC
+Cantidad: 12
+Especificaciones: * Graficos discretos memoria del adaptador:
+                    8 GB
+                  * Ancho de datos: 256 bitx, Tipo de memoria:
+                    GDDR5x
+                  * Frecuencia del procesador: 1620 MHz
+                  * Frecuencia Boost: 1822 MHz
+                  * Tipo de interfaz: PCI Express x16 3.0
+                  * HDMI: 1x, DisplayPort: 3x
+
+Precio: $10,289.00 MXN
+
+______________________________________________________________________

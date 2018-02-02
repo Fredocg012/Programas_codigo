@@ -1,0 +1,52 @@
+				Consolas
+______________________________________________________________________
+
+ID: 169
+
+Articulo: Xbox One S incluye Madde NFL 2017
+Cantidad: 16	
+Especificaciones: *Capacidad: 1 TB
+		  *Conectividad: WiFi
+		  *Numero de puertos USB 3.0: 3
+
+
+Precio: $7,789.00 MXN
+______________________________________________________________________
+
+ID: 170
+
+Articulo: PS4 Slim Fifa 18
+Cantidad: 19
+Especificaciones: *Capacidad: 1 TB
+		  *Conectividad: WiFi
+		  *Numero de puertos USB 3.0: 2
+
+Precio: $ 8,999.00 MXN
+______________________________________________________________________
+
+ID: 171
+
+Articulo: Control del Xbox One	
+Cantidad: 16
+Especificaciones: *Conexion: Inalambrica
+
+Precio: $ 1,599.00 MXN
+______________________________________________________________________
+
+ID: 172
+
+Articulo: Control de Xbox 360
+Cantidad: 14
+Especificaciones: *Conexion: Inalambrica	
+
+Precio: $ 699.00 MXN
+______________________________________________________________________
+
+ID: 173
+
+Articulo: Control de Playstation 4
+Cantidad: 23	
+Especificaciones: *Conexion: Inalambrica
+
+Precio: $ 1699.00 MXN
+______________________________________________________________________

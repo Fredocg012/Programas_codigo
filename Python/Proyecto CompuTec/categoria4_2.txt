@@ -1,0 +1,67 @@
+﻿				Audifonos
+______________________________________________________________________
+
+ID: 89
+
+Articulo: Kingston Audifonos Gamer HyperX Gun Metal Surround 7.1
+Cantidad: 23	
+Especificaciones: *Interfaz del dispositivo: 1/8 pulg.
+		  *Frecuencia de auricular: 15 - 25000 Hz
+		  *Tecnologia de conectividad: Alambrico
+		  *Conectividad del dispositivo: Alambrico
+		  *Longitud de cable: 1 m
+		  *Color del producto: Negro		  
+
+Precio: $ 1,327.00 MXN
+______________________________________________________________________
+
+ID: 90
+
+Articulo: Logitech Audifonos Gamer G933
+Cantidad: 3
+Especificaciones: *Interfaz del dispositivo: RF inalambrico
+		  *Frecuencia de auricular: 20 - 20000 Hz
+		  *Tecnologia de conectividad: Inalambrico
+		  *Conectividad del dispositivo: Inalambrico
+		  *Color del producto: Negro
+
+Precio: $ 2,419.00 MXN
+______________________________________________________________________
+
+ID: 91
+
+Articulo: Eagle Warrior Audifonos Gamer HS-501
+Cantidad: 13
+Especificaciones: *Frecuencia de auricular: 20 - 20000 Hz
+		  *Tecnologia de conectividad: Alambrico
+		  *Conectividad del dispositivo: Alambrico
+		  *Longitud de cable: 1,8 m
+		  *Color del producto: Negro, Azul
+
+Precio: $ 162.00 MXN
+______________________________________________________________________
+
+ID: 92
+
+Articulo: Cooler Master Audifonos Gamer MasterPulse Pro 7.1 RGB	
+Cantidad: 18
+Especificaciones: *Frecuencia de auricular: 20 - 20000 Hz
+		  *Longitud de cable: 2 m
+		  *Color del producto: Negro 	
+
+Precio: $ 909.00 MXN
+______________________________________________________________________
+
+ID: 93
+
+Articulo: Corsair Audifonos Gamer VOID USB 7.1 RGB	
+Cantidad: 21	
+Especificaciones: *Interfaz del dispositivo: USB
+		  *Frecuencia de auricular: 20 - 20000 Hz
+		  *Tecnologia de conectividad: Alámbrico
+		  *Conectividad del dispositivo: Alambrico
+		  *Longitud de cable: 1,8 m
+		  *Color del producto: Negro, Color blanco
+
+Precio: $ 1,309.00 MXN
+______________________________________________________________________

@@ -1,0 +1,76 @@
+                            Escaners
+______________________________________________________________________
+
+ID: 49
+
+Articulo: Scanner Epson WorkForce DS-7500
+Cantidad: 0
+Especificaciones: * Resolucion optica: 1200 x 1200 DPI
+                  * Interfaz estandar: USB 2.0
+                  * Tamano maximo: 216 x 1016 mm
+                  * Escaneado duplex: si
+                  * Escaner a color: si
+
+Precio: $23,789.00 MXN
+
+______________________________________________________________________
+
+ID: 50
+
+Articulo: Scanner Canon imageFormula DR-C130
+Cantidad: 43
+Especificaciones: * Capacidad de entrada estándar: 
+                    50 hojas
+                  * Resolucion optica: 600 x 600 DPI
+                  * Interfaz estandar: USB 2.0
+                  * Tamano maximo: 216 x 356 mm
+                  * Escaneado duplex: si
+                  * Escaner a color: si
+
+Precio: $6,169.00 MXN
+
+______________________________________________________________________
+
+ID: 51
+
+Articulo: Scanner Kodak SCANMATE
+Cantidad: 26
+Especificaciones: * Resolucion optica: 600 x 600 DPI
+                  * Interfaz estandar: USB 2.0, 
+                    USB 3.0
+                  * Tamano maximo: 216 x 1524 mm
+                  * Escaneado duplex: si
+                  * Escaner a color: si
+
+Precio: $4,619.00 MXN
+
+______________________________________________________________________
+
+ID: 52
+
+Articulo: Scanner Brother ImageCenter ADS-2400N
+Cantidad: 21
+Especificaciones: * Resolucion optica: 600 x 600 DPI
+                  * Interfaz estandar: Ethernet, 
+                    USB 2.0
+                  * Tamano maximo: 51 x 355 mm
+                  * Escaneado duplex: si
+                  * Escaner a color: si
+
+Precio: $6,309.00 MXN
+
+______________________________________________________________________
+
+ID: 53
+
+Articulo: Scanner HP Scanjet Pro 2000 s1
+Cantidad: 14
+Especificaciones: * Resolucion optica: 600 x 600 DPI
+                  * Interfaz estandar: USB
+                  * Tamano maximo: 216 x 3100 mm
+                  * Escaneado duplex: si
+                  * Escaner a color: si
+
+Precio: $5,399.00 MXN
+
+______________________________________________________________________

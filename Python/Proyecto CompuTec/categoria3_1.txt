@@ -1,0 +1,83 @@
+                         PC de escritorio
+______________________________________________________________________
+
+ID: 54
+
+Articulo: HP EliteDesk 705 G3
+Cantidad: 21
+Especificaciones: * Familia de procesador: AMD A
+                  * Memoria interna: 8 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 
+                    1000 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Pro
+
+Precio: $11,419.00 MXN
+
+______________________________________________________________________
+
+ID: 55
+
+Articulo: Kit HP Pro Desk 600 G2
+Cantidad: 13
+Especificaciones: * Familia de procesador: Intel Core 
+                    i7-6xxx
+                  * Memoria interna: 8 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 
+                    256 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Pro
+
+Precio: $18,339.00 MXN
+
+______________________________________________________________________
+
+ID: 56
+
+Articulo: ASUS PBA001WP
+Cantidad: 8
+Especificaciones: * Familia de procesador: Intel Core 
+                    i3-7xxx
+                  * Memoria interna: 8 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 2000 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Pro
+
+Precio: $10,439.00 MXN
+
+______________________________________________________________________
+
+ID: 57
+
+Articulo: Lenovo ThinkCentre M710 Tiny
+Cantidad: 19
+Especificaciones: * Familia de procesador: Intel Core 
+                    i3-7xxx
+                  * Memoria interna: 4 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 1000 GB
+                  * Sistema operativo instalado: 
+                    Windows 10 Pro
+
+Precio: $12,989.00 MXN
+
+______________________________________________________________________
+
+ID: 58
+
+Articulo: Dell Inspiron 3268
+Cantidad: 31
+Especificaciones: * Familia de procesador: Intel Core 
+                    i5-7xxx
+                  * Memoria interna: 8 GB
+                  * Tipo de memoria interna: DDR4-SDRAM
+                  * Capacidad total de almacenaje: 1000 GB
+                  * Sistema operativo instalado:
+                    Windows 10 Home
+
+Precio: $12,969.00 MXN
+
+______________________________________________________________________

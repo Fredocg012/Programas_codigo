@@ -1,0 +1,60 @@
+			      Office
+______________________________________________________________________
+
+ID: 109
+
+Articulo: Microsoft Office Hogar y Estudiantes 2016, 32/64-bit, 1 PC, 
+	  Plurilingue, Windows
+Cantidad: ilimitado	
+Especificaciones: *Memoria RAM minima: 1024 MB
+		  *Version de idioma: Plurilingue
+
+Precio: $ 1,639.00 MXN
+______________________________________________________________________
+
+ID: 110
+
+Articulo: Microsoft Office 365 Personal, 32/64-bit, 1 PC, 1 Anio, 
+	  Plurilingue, Windows/Mac/Android/iOS
+Cantidad: ilimitado
+Especificaciones: *Memoria RAM minima: 1024 MB
+		  *Version de idioma: Plurilingue
+
+Precio: $ 729.00 MXN
+______________________________________________________________________
+
+ID: 111
+
+Articulo: Microsoft Office Hogar y Empresas 2016, 32/64-bit, 1 PC, 
+	  Plurilingue, Windows Incluye de regalo Kaspersky Internet 
+	  Security 2016 + Safe Kids
+Cantidad: ilimitado
+Especificaciones: *Memoria RAM minima: 1024 MB
+		  *Version de idioma: Plurilingue
+
+Precio: $ 4,219.00 MXN
+______________________________________________________________________
+
+ID: 112
+
+Articulo: Microsoft Office 365 Hogar Premium Espanol, 32/64-bit, 1 Usuario,
+	  5 Dispositivos, 1 Anio, para Windows/Mac	
+Cantidad: ilimitado
+Especificaciones: *Procesador minimo: 1GHz
+		  *Espacio minimo del disco duro: 3000 MB
+		  *Memoria RAM minima: 1024 MB
+		  *Version de idioma: Espanol
+
+Precio: $ 1,299 MXN
+______________________________________________________________________
+
+ID: 113
+
+Articulo: Microsoft Office 365 Personal Español, 32/64-bit, 1 Usuario, 
+	  1 Dispositivo, 1 Anio, para Windows/Mac
+Cantidad: ilimitado	
+Especificaciones: *Espacio minimo del disco duro: 3000 MB
+		  *Memoria RAM minima: 1024 MB
+		  *Version de idioma: Espanol
+Precio: $ 909.00 MXN
+______________________________________________________________________

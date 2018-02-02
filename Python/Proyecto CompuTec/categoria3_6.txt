@@ -1,0 +1,77 @@
+                        Accesorios para PC
+______________________________________________________________________
+
+ID: 79
+
+Articulo: Startech.com Kit de Desatorniladores de 
+          Precisión CTK100P
+Cantidad: 12
+Especificaciones: * Desatornillador/puntas incluidas:
+                    Phillips, Ranura, Torx
+                  * Numero de destornilladores: 7
+                  * Color de la carcasa: Gris
+
+Precio: $349.00 MXN
+
+______________________________________________________________________
+
+ID: 80
+
+Articulo: Manhattan
+Cantidad: 24
+Especificaciones: * Desatornillador/puntas incluidas: 
+                    Phillips, Ranura
+                  * Numero de destornilladores: 4
+                  * Color de la carcasa: Negro
+
+Precio: $549.00 MXN
+
+______________________________________________________________________
+
+ID: 81
+
+Articulo: Silimex Aire Comprimido para Remover Polvo
+Cantidad: 4
+Especificaciones: * Uso adecuado: PC
+                  * Sustancia: Limpiador de aire de 
+                    presion
+                  * Volumen: 440 ml
+                  * Numero de productos incluidos: 1 
+                    pieza(s)
+
+Precio: $106.00 MXN
+
+______________________________________________________________________
+
+ID: 82
+
+Articulo: Silimex ON OFF CLEANER PACK Kit Limpiador de
+          Pantallas
+Cantidad: 34
+Especificaciones: * Uso adecuado: Pantallas / Plasticos
+                  * Materiales: Microfibra
+                  * Sustancia: Mojado / seco paños y 
+                    liquidos
+                  * Volumen: 660 ml
+                  * Numero de productos incluidos: 5 
+                    pieza(s)
+
+Precio: $231.00 MXN
+
+______________________________________________________________________
+
+ID: 83
+
+Articulo: Silimex Disk Repair Kit Limpiador para Discos
+Cantidad: 27
+Especificaciones: * Uso adecuado: CD's/DVD's
+                  * Materiales: Microfibra
+                  * Sustancia: Mojado / seco paños y 
+                    liquidos
+                  * Volumen: 20 ml
+                  * Numero de productos incluidos: 3 
+                    pieza(s)
+
+Precio: $78.00 MXN
+
+______________________________________________________________________

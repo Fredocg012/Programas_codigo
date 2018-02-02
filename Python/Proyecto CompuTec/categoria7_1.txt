@@ -1,0 +1,89 @@
+                             IPads
+______________________________________________________________________
+
+ID: 134
+
+Articulo: Apple iPad Pro Retina 10.5'', 64GB, 2224 x 1668
+          Pixeles, iOS 10, Wifi, Bluetooth 4.2, Space Gray
+Cantidad: 23
+Especificaciones: * Diagonal de la pantalla: 10.5pulg.
+                  * Resolucion de la pantalla: 2224 x 1668
+                    Pixeles
+                  * Capacidad total de almacenaje: 64 GB
+                  * 3G: no
+                  * 4G: no
+                  * Color del producto: Gris
+
+Precio: $15,519.00 MXN
+
+______________________________________________________________________
+
+ID: 135
+
+Articulo: Apple iPad Pro Retina 10.5", 256GB, 2224 x 1668
+          Pixeles, iOS 10, WiFi + Cellular, Bluetooth 4.2, 
+          Rosa
+Cantidad: 43
+Especificaciones: * Diagonal de la pantalla: 10.5pulg.
+                  * Resolucion de la pantalla: 2224 x 1668
+                    Pixeles
+                  * Capacidad total de almacenaje: 256 GB
+                  * 3G: si
+                  * 4G: si
+                  * Color del producto: Oro rosado
+
+Precio: $23,529.00 MXN
+
+______________________________________________________________________
+
+ID: 136
+
+Articulo: Apple iPad Pro Retina 12.9", 64GB, 2732 x 2048
+          Pixeles, iOS 10, Wi-Fi + Cellular, Bluetooth 4.2, 
+          Oro
+Cantidad: 12
+Especificaciones: * Diagonal de la pantalla: 12.9pulg.
+                  * Resolucion de la pantalla: 2732 x 2048
+                    Pixeles
+                  * Capacidad total de almacenaje: 64 GB
+                  * 3G: si
+                  * 4G: si
+                  * Color del producto: Oro
+
+Precio: $22,669.00 MXN
+
+______________________________________________________________________
+
+ID: 137
+
+Articulo: Apple iPad Pro 9.7'', 256GB, 2048 x 1536 
+          Pixeles, iOS 9, WiFi, Bluetooth 4.2, Space Gray
+Cantidad: 34
+Especificaciones: * Diagonal de la pantalla: 9.7pulg.
+                  * Resolucion de la pantalla: 2048 x 1536
+                    Pixeles
+                  * Capacidad total de almacenaje: 256 GB
+                  * 3G: no
+                  * 4G: no
+                  * Color del producto: Gris
+
+Precio: $11,119.00 MXN
+
+______________________________________________________________________
+
+ID: 138
+
+Articulo: Apple iPad Mini 4 7.9'', 32GB, 2048 x 1536 
+          Pixeles, iOS 9, Wi-Fi, Bluetooth 4.2, Plata
+Cantidad: 50
+Especificaciones: * Diagonal de la pantalla: 7.9pulg.
+                  * Resolucion de la pantalla: 2048 x 1536
+                    Pixeles
+                  * Capacidad total de almacenaje: 32 GB
+                  * 3G: no
+                  * 4G: no
+                  * Color del producto: Plata
+
+Precio: $9,769.00 MXN
+
+______________________________________________________________________

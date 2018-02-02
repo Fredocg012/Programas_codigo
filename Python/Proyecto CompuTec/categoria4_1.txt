@@ -1,0 +1,60 @@
+			      Web Cam
+______________________________________________________________________
+
+ID: 84
+
+Articulo: Logitech Web Cam C922
+Cantidad: 3	
+Especificaciones: *Interfaz: USB
+		  *Maxima resolucion de video: 1920 x 1080 Pixeles
+		  *Microfono incorporado: Si
+
+Precio: $ 1,729.00 MXN
+______________________________________________________________________
+
+ID: 85
+
+Articulo: Naceb Webcam NA-297Q
+Cantidad: 13
+Especificaciones: *Megapixeles: 0,3 MP
+		  *Interfaz: USB 2.0
+		  *Maxima resolucion de video: 640 x 480 Pixeles	
+
+Precio: $ 121.00 MXN
+______________________________________________________________________
+
+ID: 86
+
+Articulo: Interlogix Webcam RS-3130
+Cantidad: 4
+Especificaciones: *Megapixeles: 1,3 MP
+		  *Interfaz: RJ-45 / Wi-Fi
+		  *Tipo de sensor: ICF
+		  *Maxima resolucion de video: 1280 x 960 Pixeles
+		  *Microfono incorporado: Si
+
+Precio: $ 2,979.00 MXN
+______________________________________________________________________
+
+ID: 87
+
+Articulo: Microsoft LifeCam Studio con Microfono	
+Cantidad: 15
+Especificaciones: *Interfaz: USB 2.0
+		  *Tipo de sensor: CMOS
+		  *Maxima resolucion de video: 1920 x 1080 Pixeles
+		  *Microfono incorporado: Si  	
+
+Precio: $ 1,239.00 MXN
+______________________________________________________________________
+
+ID: 88
+
+Articulo: Genius Webcam Look 313 Media	
+Cantidad: 34	
+Especificaciones: *Tipo de sensor: CMOS
+		  *Maxima resolucion de video: 640 x 480 Pixeles
+		  *Microfono incorporado: No
+
+Precio: $ 539.00 MXN
+______________________________________________________________________
