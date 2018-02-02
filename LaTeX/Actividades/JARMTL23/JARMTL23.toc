@@ -1,0 +1,8 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}LaTeX}{1}
+\contentsline {subsection}{\numberline {1.1}\IeC {\textquestiondown }Qu\IeC {\'e} es LaTeX?}{1}
+\contentsline {subsection}{\numberline {1.2}\IeC {\textquestiondown }Por qu\IeC {\'e} usar LaTeX?}{2}
+\contentsline {section}{\numberline {2}Generar documentos PDF con LaTeX}{2}
+\contentsline {section}{\numberline {3}Composici\IeC {\'o}n de documentos .tex}{2}
+\contentsline {subsection}{\numberline {3.1}Clases de documentos en LaTeX}{2}
+\contentsline {section}{\numberline {4}Fuentes de consulta}{3}

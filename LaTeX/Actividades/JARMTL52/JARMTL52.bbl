@@ -1,0 +1,35 @@
+\begin{thebibliography}{}
+
+\bibitem[Calderbank et~al., 1993]{Calderbank}
+Calderbank, A.~R., Hammons~Jr, A.~R., Kumar, P.~V., Sloane, N. J.~A., and Sole,
+  P. (1993).
+\newblock {A} {L}inear {C}onstruction for {C}ertain {K}erdock and {P}reparata
+  {C}odes.
+\newblock {\em American Mathematical Society}, 29(2):218--222.
+
+\bibitem[Conway and Sloane, 1993]{Conway}
+Conway, J.~H. and Sloane, N. J.~A. (1993).
+\newblock {S}elf-dual codes over the integers modulo 4.
+\newblock {\em J.Combin. Theory Ser. A.}, 62(1):30--45.
+
+\bibitem[Honold, 2001]{Honold}
+Honold, T. (2001).
+\newblock {C}haracterization of finite frobenius rings.
+\newblock {\em Archiv der Mathematik}, 76:406--415.
+
+\bibitem[Ling and Xing, 2004]{Ling}
+Ling, S. and Xing, C. (2004).
+\newblock {\em Coding Theory, A First Course}.
+\newblock Cambridge University Press.
+
+\bibitem[Pless and Qian, 1996]{Pless}
+Pless, V. and Qian, Z. (1996).
+\newblock {C}yclic codes and quadratic residue codes over {$Z_{4}$}.
+\newblock {\em Information Theory, {IEEE} Transactions on}, 42(5):1594--1600.
+
+\bibitem[Pless et~al., 1997]{Qian}
+Pless, V., Sol\'e, P., and Qian, Z. (1997).
+\newblock {C}yclic {S}elf-{D}ual {$Z_{4}$}-{C}odes.
+\newblock {\em Finite Fields and Their Applications}, 3(1):48--69.
+
+\end{thebibliography}

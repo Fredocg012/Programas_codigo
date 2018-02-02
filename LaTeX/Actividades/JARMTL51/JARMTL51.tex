@@ -1,0 +1,41 @@
+﻿%Plantilla para taller de LaTeX
+
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+
+
+\title{Referencias}
+\author{Jesus Adrian Rosas Martinez}
+\date{\small{\today}}
+
+
+\begin{document}
+\maketitle %Encabezado
+
+
+Existen diversas estrategias para minimizar el error de redondeo (véase \cite{Ling1}).
+\begin{thebibliography}{XXX99}
+\bibitem{Ling1}
+Akai, Terrence J. \emph{Métodos Numéricos}. Limusa, México, 2002.\\\\
+\end{thebibliography}
+
+
+Existen diversas estrategias para minimizar el error de redondeo (véase \cite{Ling2}).
+\begin{thebibliography}{XXX99}
+\bibitem[A02]{Ling2}
+Akai, Terrence J. \emph{Métodos Numéricos}. Limusa, México, 2002.\\\\
+\end{thebibliography}
+
+
+Existen diversas estrategias para minimizar el error de redondeo\footnote{Akai, Terrence J. \emph{Métodos Numéricos}. Limusa, México, 2002.}\\\\
+
+
+Existen diversas estrategias para minimizar el error de redondeo (véase \cite{Ling1}).
+\begin{thebibliography}{99}
+\bibitem{Ling1}
+Akai, T. J. \emph{Métodos Numéricos}. Limusa, México, 2002.\\\\
+\end{thebibliography}
+
+
+\end{document}

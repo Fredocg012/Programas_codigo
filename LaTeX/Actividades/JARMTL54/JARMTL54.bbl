@@ -1,0 +1,110 @@
+\begin{thebibliography}{7}
+%Comandos de formato, por si no están definidos.
+\ProvideTextCommand{\guillemotleft}{OT1}{\leavevmode\raise
+  .27ex\hbox{$\scriptscriptstyle\ll$}}
+  \ProvideTextCommand{\guillemotright}{OT1}{\leavevmode\raise
+  .27ex\hbox{$\scriptscriptstyle\gg$}}
+\providecommand{\enquote}[1]{\guillemotleft#1\guillemotright}
+  \providecommand{\natexlab}[1]{#1}
+  \providecommand{\bibnamefont}[1]{\textsc{#1}}
+  \providecommand{\bibfnamefont}[1]{\textsc{#1}}
+  \providecommand{\bibfnamefontand}[1]{#1}
+  \providecommand{\citenamefont}[1]{#1}
+  \providecommand{\bibnamefont}[1]{\textsc{#1}}
+  \providecommand{\bbletalfont}[1]{\emph{#1}}
+  \providecommand{\citeandfont}[1]{#1} \providecommand{\citetalfont}[1]{#1}
+  \providecommand{\bibyearfont}[1]{#1} \providecommand{\isbn}[1]{ISBN #1}
+  \providecommand{\url}[1]{\texttt{#1}} \providecommand{\urlprefix}{}
+  \providecommand{\nameseparator}{;}
+  \providecommand{\namereplace}[1]{{---{}---} \ifx\datebegin\relax \else
+  \def\datebegin #1.{\relax}\fi} \providecommand{\dateend}[1]{, #1}
+  \providecommand{\bibtitle}[1]{#1}\providecommand{\bibtranslator}[1]{#1}
+  \providecommand{\bibtranslatorname}{Traducido por }
+  \providecommand{\selectlanguage}[1]{\relax} \providecommand{\finalpoint}{.}
+  \providecommand{\namesend}{:} \providecommand{\Capitalize}[1]{\uppercase{#1}}
+  \providecommand{\capitalize}[1]{\expandafter\Capitalize#1}
+  \providecommand{\bibinfont}[1]{\textbf{#1}}
+  \providecommand{\inbooktitlefont}[1]{\emph{#1}}
+  \providecommand{\bibvolfont}[1]{\textbf{#1}}
+  \providecommand{\bibandfont}[1]{#1}
+  \providecommand{\bibcommentname}{\textsc{Obs:}}
+  \providecommand{\bibcomment}[2]{\begin{quotation}
+  \noindent\textsc{\bibcommentname}\ #2\end{quotation}}
+  \providecommand{\bibabstract}[2]{\begin{quotation}
+  \noindent\textsc{\abstractname:}\ #2\end{quotation}}
+\providecommand{\bblin}{En} \providecommand{\bbland}{y}
+  \providecommand{\bbletal}{y otros} \providecommand{\bbled}{ed.}
+  \providecommand{\bbleds}{eds.} \providecommand{\bbvolume}{vol.}
+  \providecommand{\bblof}{de} \providecommand{\bbledition}{ª~edición}
+  \providecommand{\bblp}{p.}  \providecommand{\bblpp}{pp.}
+  \providecommand{\bbltechreport}{Informe técnico}
+  \providecommand{\bblmthesis}{Tesina} \providecommand{\bblphdthesis}{Tesis
+  doctoral} \providecommand{\bblchapter}{cap\'\i{}tulo}
+  \providecommand{\bblnumber}{número} \providecommand{\bblvolume}{volumen}
+  \providecommand{\MR}[1]{\relax\ifhmode\unskip\space\fi MR #1}
+  \expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else  \providecommand{\doi}{doi:
+  \begingroup \urlstyle{rm}\Url}\fi
+%Para resultados estilo plain descomente la línea siguiente
+%\let\oldbibitem=\bibitem \def\bibitem[#1]#2{\oldbibitem{#2}}
+
+\bibitem[{\citenamefont{Calderbank}
+  \citetalfont{\bbletal{}}(1993)\citenamefont{Calderbank},
+  \citenamefont{Hammons~Jr}, \citenamefont{Kumar}, \citenamefont{Sloane}
+  \citeandfont{\bbland{}} \citenamefont{Sole}}]{Calderbank}
+  \bibnamefont{Calderbank}, \bibfnamefont{A.~R.}\nameseparator{}
+  \bibnamefont{Hammons~Jr}, \bibfnamefont{A.~R.}\nameseparator{}
+  \bibnamefont{Kumar}, \bibfnamefont{P.~V.}\nameseparator{}
+  \bibnamefont{Sloane}, \bibfnamefont{N.~J.~A.} \bibandfont{\bbland{}}
+  \bibnamefont{Sole}, \bibfnamefont{P.}\namesend{}\datebegin 1993.
+  \newblock \bibtitle{\enquote{{A} {L}inear {C}onstruction for {C}ertain
+  {K}erdock and {P}reparata {C}odes}}.
+  \newblock \emph{American Mathematical Society}\dateend{1993},
+  \bibvolfont{29(2)}, \bblpp{} 218--222\finalpoint{}
+
+\bibitem[{\citenamefont{Conway} \citeandfont{\bbland{}}
+  \citenamefont{Sloane}(1993)}]{Conway}
+  \bibnamefont{Conway}, \bibfnamefont{J.~H.} \bibandfont{\bbland{}}
+  \bibnamefont{Sloane}, \bibfnamefont{N.~J.~A.}\namesend{}\datebegin 1993.
+  \newblock \bibtitle{\enquote{{S}elf-dual codes over the integers modulo 4}}.
+  \newblock \emph{J.Combin. Theory Ser. A.}\dateend{1993}, \bibvolfont{62(1)},
+  \bblpp{} 30--45\finalpoint{}
+
+\bibitem[{\citenamefont{Honold}(2001)}]{Honold}
+  \bibnamefont{Honold}, \bibfnamefont{T.}\namesend{}\datebegin 2001.
+  \newblock \bibtitle{\enquote{{C}haracterization of finite frobenius rings}}.
+  \newblock \emph{Archiv der Mathematik}\dateend{2001}, \bibvolfont{76},
+  \bblpp{} 406--415\finalpoint{}
+
+\bibitem[{\citenamefont{Ling} \citeandfont{\bbland{}}
+  \citenamefont{Xing}(2004)}]{Ling}
+  \bibnamefont{Ling}, \bibfnamefont{S.} \bibandfont{\bbland{}}
+  \bibnamefont{Xing}, \bibfnamefont{Ch.}\namesend{}\datebegin 2004.
+  \newblock \bibtitle{\emph{Coding Theory, A First Course}}.
+  \newblock Cambridge University Press\dateend{2004}\finalpoint{}
+
+\bibitem[{\citenamefont{Pless} \citeandfont{\bbland{}}
+  \citenamefont{Qian}(1996)}]{Pless}
+  \bibnamefont{Pless}, \bibfnamefont{V.} \bibandfont{\bbland{}}
+  \bibnamefont{Qian}, \bibfnamefont{Z.}\namesend{}\datebegin 1996.
+  \newblock \bibtitle{\enquote{{C}yclic codes and quadratic residue codes over
+  {$Z_{4}$}}}.
+  \newblock \emph{Information Theory, {IEEE} Transactions on}\dateend{1996},
+  \bibvolfont{42(5)}, \bblpp{} 1594--1600\finalpoint{}
+
+\bibitem[{\citenamefont{Pless}
+  \citetalfont{\bbletal{}}(1997)\citenamefont{Pless}, \citenamefont{Sol\'e}
+  \citeandfont{\bbland{}} \citenamefont{Qian}}]{Qian}
+  \bibnamefont{Pless}, \bibfnamefont{V.}\nameseparator{}
+  \bibnamefont{Sol\'e}, \bibfnamefont{P.} \bibandfont{\bbland{}}
+  \bibnamefont{Qian}, \bibfnamefont{Z.}\namesend{}\datebegin 1997.
+  \newblock \bibtitle{\enquote{{C}yclic {S}elf-{D}ual {$Z_{4}$}-{C}odes}}.
+  \newblock \emph{Finite Fields and Their Applications}\dateend{1997},
+  \bibvolfont{3(1)}, \bblpp{} 48--69\finalpoint{}
+
+\bibitem[{\citenamefont{van Lint}(1999)}]{Lint}
+  \bibnamefont{van Lint}, \bibfnamefont{J.~H.}\namesend{}\datebegin 1999.
+  \newblock \bibtitle{\emph{Introduction to Coding Theory}}.
+  \newblock Springer, $3^{a}$ edici\'on\dateend{1999}\finalpoint{}
+
+\end{thebibliography}

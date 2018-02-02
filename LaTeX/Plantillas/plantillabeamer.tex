@@ -1,0 +1,45 @@
+﻿%Plantilla para elaborar presentaciones con LaTeX Beamer
+
+\documentclass[spanish]{beamer}
+\documentclass[xcolor=pdftex,dvinames,table]{beamer}
+\usepackage{babel}
+\usepackage[latin1]{inputenc}%%Para los acentos
+\usetheme{Warsaw}
+
+\title{}
+\author{Jesus Adrian Rosas Martinez}
+\date{}
+
+\begin{document}
+
+\frame{\titlepage} % Portada con datos del preámbulo
+\frame{\tableofcontents} %Índice de la presentación
+
+\section{}%Bloque para crear diapositivas
+
+\begin{frame}
+\end{frame}%Fin de bloque
+
+\begin{frame}
+\begin{enumerate}
+%\item
+\end{enumerate}
+\end{frame}%Fin de bloque
+
+\section{}%Bloque para crear diapositivas divididas
+
+\begin{frame}
+\begin{columns}[cc]
+\column{2in}
+\column{2in}
+\end{columns}
+\end{frame}%Fin de bloque
+
+\begin{frame}
+\begin{columns}[cc]
+\column{2in}
+\column{2in}
+\end{columns}
+\end{frame}%Fin de bloque
+
+\end{document}

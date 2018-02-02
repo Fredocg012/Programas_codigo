@@ -1,0 +1,24 @@
+﻿%Plantilla para taller de LaTeX
+
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+
+\title{\Large{Proyecto final para la materia de Estructuras de datos y algorítmos I}}
+\author{Jes\'us Adri\'an Rosas Mart\'inez\\Juan Andrés Cruz Romero}
+\date{\small{\today}}
+
+\begin{document}
+
+\maketitle %Encabezado
+El proyecto final consiste en una solución empresarial para una tienda de diversos productos (punto de venta), dependiendo del área en que se desempeñe. En nuestro caso, la empresa que hace uso de nuestro software es ``CompuTec'', la cual se dedica a la venta de productos en el área de la computación y electrónica en general.\\
+
+La presentación durante la entrega del programa comienza con la implementación de una página electrónica desde donde se podrá descargar el ejecutable de dicho software, cabe mencionar que la página electrónica ya se encuentra disponible en la siguiente dirección (http://edupuma.info).\\
+
+Primeramente, el programa estará basado en lenguaje python (v.2.7) y se ejecutará en el SO Windows, implementando el uso de una base de datos con ayuda del software SQLite Administrator; contendrá una pantalla de presentación donde se mostrarán las diferentes opciones disponibles, entre las cuales se encuentra ``Iniciar sesión'' y ``Registrarse'', ambas ligadas a una base de datos.\\
+
+Una vez que el usuario se haya registrado en la base de datos con su username y su password, tendrá acceso al inventario en el cual podrá dar de alta y de baja los productos con los que cuenta la empresa para su comercialización. El programa será capaz de registrar cada compra que se lleve acabo disminuyendo la cantidad de productos disponibles, creando al final de la sesión del usuario el corte de venta (todas las ventas realizadas por el usuario en cuestión).\\ 
+
+Por último, el programa será capaz de generar un ``ticket'' con el total de productos adquiridos en la respectiva venta, mostrando también información adicional, entre la cual se encuentra el pago total.
+
+\end{document}

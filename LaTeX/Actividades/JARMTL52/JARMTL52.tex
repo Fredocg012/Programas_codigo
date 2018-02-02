@@ -1,0 +1,24 @@
+﻿%Plantilla para taller de LaTeX
+
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{apalike}
+
+\title{Bibliografía con Bib\TeX}
+\author{Jesus Adrian Rosas Martinez}
+\date{\small{\today}}
+
+\begin{document}
+
+\maketitle %Encabezado
+
+La teoría de códigos es el resultado de la maravillosa combinación de la teoría de códigos correctores de errores y matemáticas para la modelación de la comunicación confiable en la presencia de ruido, involucrando matemáticas discretas, cálculo combinatorio, álgebra moderna, álgebra lineal, teoría de probabilidad y estadística. La teoría de códigos ha sido investigada y desarrollada durante más de cinco décadas y ha visto gran aplicación en diversos ámbitos que involucran la transmisión de información codificada (véase) Mientras que originalmente la teoría algebraica de códigos correctores de errores tuvo lugar en el escenario de los espacios vectoriales sobre campos finitos, el estudio de los códigos lineales sobre anillos finitos ha cobrado
+fuerza e importancia a partir de que, años atrás, especialistas en la materia descubrieron que códigos aparentemente no lineales en realidad están relacionados con códigos lineales sobre el anillo de los enteros módulo cuatro (véase \cite{Calderbank}).
+
+\renewcommand{\bibname}{Referencias}
+\bibliographystyle{apalike}
+\nocite{Conway, Honold, Ling, Pless, Qian}
+\bibliography{biblio_ejemplo2}
+
+\end{document}

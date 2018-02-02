@@ -1,0 +1,27 @@
+﻿%Plantilla para taller de LaTeX
+
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{apalike}
+
+\title{Administrador de referencias \emph{JabRef}}
+\author{Jesus Adrian Rosas Martinez}
+\date{\small{\today}}
+
+\begin{document}
+
+\maketitle %Encabezado
+
+\LaTeX es un sistema de composición de textos orientado a la creación de documentos escritos que presenten una alta calidad tipográfica. Por sus características y posibilidades, es usado de forma especialmente intensa en la generación de artículos (véase \cite{li1975bases}) y reportes científicos (véase \cite{zuber1959hydrodynamic}) que incluyen, entre otros elementos, expresiones matemáticas.
+
+Es muy utilizado para la composición de trabajos técnicos (véase \cite{gianturco2012migracion}), publicaciones científicas (véase \cite{alarcon2010publicaciones}) y tesis, dado que la calidad tipográfica de los documentos realizados en \LaTeX, se le considera adecuada a las necesidades de una editorial científica de primera linea.
+
+Finalmente, se recomienda consultar la guía rápida para el nuevo usuario de \LaTeX (véase \cite{martel2004guia}).
+
+\renewcommand{\bibname}{Referencias}
+\bibliographystyle{alpha}
+\nocite{Conway, Honold, Ling, Pless, Qian}
+\bibliography{referencias1}
+
+\end{document}

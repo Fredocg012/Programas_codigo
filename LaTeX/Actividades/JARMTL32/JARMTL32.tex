@@ -1,0 +1,43 @@
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+
+\title{TL31: Entornos matematicos}
+\author{Jesus Adrian Rosas Martinez}
+\date{\small{\today}}
+
+\begin{document}
+
+\maketitle %Encabezado
+
+\begin{align*} %Ejercicio 1
+h_{w_{H}}{(\delta)}&=\min_{z\in(0,1]}{\log_{q}}{\frac{f_{w_{H}}{(z)}}{z^{\delta}}}\\
+&=\min_{z\in(0,1]}{(\log_{q}{f_{w_{H}}{(z)}}-\log_{q}{z^{\delta}})}\\
+&=\min_{z\in(0,1]}{(\log_{q}{(1+(q-1)z)}-\delta\log_{q}{z})}\\
+&=\log_{q}{\left(1+(q-1)\frac{\delta}{(q-1)(1-\delta)}\right)}-\delta\log_{q}{\left(\frac{\delta}{(q-1)(1-\delta)}\right)}\\
+&=\log_{q}{\left(\frac{1}{1-\delta}\right)}-\delta\log_{q}{\delta}+\delta\log_{q}{(q-1)}+\delta\log_{q}{(q-1)}\\
+&=\delta\log_{q}{\frac{1}{\delta}}+(1-\delta)\log_{q}{\frac{1}{1-\delta}}+\delta\log_{q}{(q-1)}.
+\end{align*}
+\begin{align*} %Ejercicio 2
+ab&={[x_{1},x_{2}]qx_{2}[x_{1},x_{2}][x_{1},x_{2}]x_{1}}+{q^{-1}qx_{2}{[x_{1},x_{2}]\left[[x_{1},x_{2}]+q^{-1}x_{2}x_{1}\right]}[x_{1},x_{2}]x_{1}}\\
+&={[x_{1},x_{2}]qx_{2}[x_{1},x_{2}][x_{1},x_{2}]x_{1}}+{x_{2}[x_{1},x_{2}][x_{1},x_{2}][x_{1},x_{2}]x_{1}}\\
+&\hspace{5mm}+{x_{2}[x_{1},x_{2}]q^{-1}x_{2}x_{1}[x_{1},x_{2}]x_{1}}.
+\end{align*}
+\begin{align} %Ejercicio 3
+[x_{i},x_{j}]&=0,\quad si\;|i-j|>1;\\
+\left[[x_{i},x_{i+1}],x_{i+1}\right]&=0,\quad si\;1\leq{i}<n;\\
+\left[x_{i},[x_{i},x_{i+1}]\right]&=0,\quad si\;1\leq{i}<n.
+\end{align}
+\begin{align} %Ejercicio 4
+[x_{i},x_{j}]&=0,\quad si\;|i-j|>1;\nonumber\\
+\left[[x_{i},x_{i+1}],x_{i+1}\right]&=0,\quad si\;1\leq{i}<n;\nonumber\\
+\left[x_{i},[x_{i},x_{i+1}]\right]&=0,\quad si\;1\leq{i}<n.
+\end{align}
+\begin{align*} %Ejercicio 5
+e^{i\theta_{1}}e^{i\theta_{2}}&=(\cos{\theta_{1}}+i\sen{\theta_{1}})(\cos{\theta_{2}}+i\sen{\theta_{2}})\\
+&=(\cos{\theta_{1}}\cos{\theta_{2}}-\sen{\theta_{1}}\sen{\theta_{2}})+i(\cos{\theta_{1}}\sen{\theta_{2}}+\sen{\theta_{1}}\cos{\theta_{2}})\\
+&=\cos{({\theta_{1}}+{\theta_{2}})}+i\sen{({\theta_{1}}+{\theta_{2}})}\\
+&=e^{i({\theta_{1}}+{\theta_{2}})}.
+\end{align*}
+\end{document}

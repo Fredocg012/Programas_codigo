@@ -1,0 +1,129 @@
+﻿%Plantilla para elaborar presentaciones con LaTeX Beamer
+
+%\documentclass[spanish]{beamer}
+\documentclass[xcolor=pdftex,dvinames,table]{beamer}
+\usepackage[spanish]{babel}
+%\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
+%%Para los acentos
+\usetheme{Warsaw}
+
+\title{Elaboración de presentaciones con la clase \LaTeX Beamer}
+\author{Jesus Adrian Rosas Martinez}
+\date{\today}
+
+\begin{document}
+\frame{\titlepage}
+\begin{frame}
+\frametitle{Índice} 
+\tableofcontents %Índice de la presentación
+\end{frame}
+\section{Listas y viñetas}%Bloque para crear diapositivas
+\begin{frame}
+\frametitle{Listas y viñetas}
+Las listas y viñetas se producen con los mismos comandos que se emplean para este fin en los documentos creados con \LaTeX.\\
+\begin{enumerate}
+\item Un elemento
+\item Otro elemento
+\end{enumerate}
+\begin{itemize}
+	\item [(i)] Un elemento
+	\item [(ii)] Otro elemento\\
+	\item Otro \ldots
+	\item El último
+\end{itemize}
+\end{frame}%Fin de bloque
+
+\section{Integración de imágenes}%Bloque para crear diapositivas
+\begin{frame}
+\frametitle{Integración de imágenes}
+No se recomienda el uso de figuras en las presentaciones. Deben incluirse sólo imágenes que aporten algo al material o bien sirvan de soporte. He aquí un ejemplo:
+\begin{center}
+\includegraphics{LaTeXlion2.png}
+\end{center}
+\end{frame}
+
+\section{Tablas con color}%Bloque para crear diapositivas
+\begin{frame}
+\frametitle{Tablas con color}
+Las tablas que se pueden integrar en una presentación con Beamer, pueden o no tener color. He aquí un ejemplo:\bigskip
+
+\rowcolors{1}{red!20}{red!15}
+\begin{tabular}{ll}
+\textbf{Término}&\textbf{Descripción}\\
+\hline
+\LaTeX perto& Usuario avanzado de \LaTeX\\
+\LaTeX plorador& Usuario principiante de \LaTeX\\
+\LaTeX iliado& Quien conoce \LaTeX pero se niega a usarlo\\
+\LaTeX cluido& Quien no conoce \LaTeX\\
+\hline
+\end{tabular}
+\end{frame}
+
+\section{División de diapositivas}%Bloque para crear diapositivas
+\begin{frame}
+\frametitle{División de diapositivas}
+Las diapositivas pueden dividirse en columnas. Aquí se presenta esta diapositiva dividida en dos columnas de 2 pulgadas de ancho: \\
+\begin{columns}
+
+\column{2in}
+\begin{flushleft}
+\LaTeX es un sistema de composición de textos, orientado especialmente a la creación de libros, documentos científicos y técnicos que contengan fórmulas matemáticas.
+\end{flushleft}
+
+\column{2in}
+\begin{center}
+\includegraphics[height=1.5in]{LaTeXlion1.png}
+\end{center}
+\end{columns}
+\end{frame}
+
+
+\section{Matemáticas ``encapsuladas''}%Bloque para crear diapositivas
+\begin{frame}
+\frametitle{Matemáticas ``encapsuladas''}
+En ocasiones es conveniente resaltar definiciones, axiomas, proposiciones, teoremas, corolarios y demostraciones; como en el siguiente ejemplo: \\
+\begin{block}{Teorema de Pitágoras}
+Sean $a$ y $b$ los catetos de un triángulo rectángulo; y $c$, la hipotenusa. Entonces, se satisface que\\
+\begin{center}
+$c^{2}=a^{2}+b^{2}$.
+\end{center}
+\end{block}
+\end{frame}
+
+
+\section{Referencias bibliográficas}%Bloque para crear diapositivas
+\begin{frame}
+\frametitle{Referencias bibliográficas}
+Las referencias pueden insertarse como en cualquier documento de \LaTeX.
+
+\begin{thebibliography}{1}
+\bibitem{Tantau}
+Till Tantau. \emph{Users Guide to the Beamer Class,
+v 3.01}. En \url{http://latex-beamer.sourceforge.net}.
+Ultima consulta: 16 de junio de 2009.
+\end{thebibliography}
+
+\end{frame}
+
+\begin{frame}
+
+\begin{thebibliography}{1}
+\bibitem{zuber1959hydrodynamic}
+Novak Zuber.
+\newblock Hydrodynamic aspects of boiling heat transfer (thesis).
+\newblock Technical report, Ramo-Wooldridge Corp., Los Angeles, CA (United
+  States); Univ. of California, Los Angeles, CA (United States), 1959.
+\end{thebibliography}
+
+\begin{thebibliography}{1}
+\bibitem{martel2004guia}
+Eugenio~Fedriani Martel.
+\newblock {\em Gu{\'\i}a r{\'a}pida para el nuevo usuario de LATEX}.
+\newblock Juan Carlos Mart{\'\i}nez Coll, 2004.
+\end{thebibliography}
+
+\end{frame}
+
+
+\end{document}

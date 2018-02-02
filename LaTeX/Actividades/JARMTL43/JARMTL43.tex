@@ -1,0 +1,90 @@
+﻿%Plantilla para taller de LaTeX
+
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb}
+\usepackage{graphicx}
+
+\title{Ejemplo para insertar gráficos y figuras en \LaTeXe}
+\author{Jesus Adrian Rosas Martinez}
+\date{\small{\today}}
+
+\begin{document}
+
+\maketitle %Encabezado
+
+Este es un pequeño ejemplo que muestra los efectos producidos por diversas opciones del entorno figure. Comencemos con el comando $\backslash$\texttt{listoffigures} que produce el siguiente índice:
+
+\listoffigures
+
+Este es el gráfico en su tamaño original:
+\begin{figure}
+\centering
+\includegraphics[keepaspectratio]{LaTeXlion2.png}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{LaTeXlion2.png}
+\caption{Gráfico con textwidth}
+\label{fig:1}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=1.0cm]{LaTeXlion2.png}
+\caption{Gráfico con width=1.00 cm}
+\label{fig:2}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=1.0cm, height=3.0cm]{LaTeXlion2.png}
+\caption{Gráfico con width=1.00 cm y height=3.00 cm}
+\label{fig:3}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=1.0cm, height=3.0cm, keepaspectratio]{LaTeXlion2.png}
+\caption{Gráfico con width=1.00 cm, height=3.00 cm y keepaspectratio}
+\label{fig:4}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=1.0cm, height=1.0cm, draft]{LaTeXlion2.png}
+\caption{Gráfico con width=1.00 cm, height=1.00 cm y draft}
+\label{fig:5}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.75]{LaTeXlion2.png}
+\caption{Gráfico con scale=0.75}
+\label{fig:6}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=3.0cm, height=3.0cm, angle=45]{LaTeXlion2.png}
+\caption{Gráfico con width=3.00 cm, height=3.00 cm y angle=45}
+\label{fig:7}
+\end{figure}
+
+\begin{center}
+\large{\textsc{EXPLICACIÓN}}\\
+\end{center}
+\begin{itemize}
+\item \textbf{width}: La opción width, por si sola, modifica el tamaño de la imagen (ancho y alto), dependiendo la medida que se desea.
+\item \textbf{height}: La opción height modifica el tamaño de la imagen a lo largo.
+\item \textbf{$\backslash$textwidth}: El parámetro $\backslash$textwidth modifica el tamaño de la imagen respetando el margen del documento.
+\item \textbf{keepaspectratio}: Modifica el tamaño de la imagen, sin deformarla, por si solo coloca la imagen a su tamaño original ya que es de tipo lógico (no importa si se escribe o se omite).
+\item \textbf{scale}: Escala una imagen, dependiendo el tamaño que se desea.
+\item \textbf{draft}: Coloca un margen alrededor de la imagen sin mostrarla y solo coloca el nombre que tiene.
+\item \textbf{angle}: Rota la imagen dependiendo el numero de grados que se desea.
+\end{itemize}
+
+
+\end{document}

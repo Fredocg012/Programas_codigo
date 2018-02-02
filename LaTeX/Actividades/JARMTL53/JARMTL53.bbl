@@ -1,0 +1,35 @@
+\begin{thebibliography}{AVRG10}
+
+\bibitem[AVRG10]{alarcon2010publicaciones}
+Jorge Alarc{\'o}n-Villaverde, Franco Roman{\'\i}, and C{\'e}sar Guti{\'e}rrez.
+\newblock Publicaciones cient{\'\i}ficas estudiantiles producidas en el curso
+  de epidemiolog{\'\i}a de la facultad de medicina de la universidad nacional
+  mayor de san marcos durante el periodo 2003-2009.
+\newblock In {\em Anales de la Facultad de Medicina}, volume~71, pages
+  111--116. UNMSM. Facultad de Medicina, 2010.
+
+\bibitem[Gia12]{gianturco2012migracion}
+Giovanna Gianturco.
+\newblock Migraci{\'o}n internacional y biograf{\'\i}as multiespaciales: una
+  reflexi{\'o}n metodol{\'o}gica.
+\newblock In {\em M{\'e}todos cualitativos y su aplicaci{\'o}n emp{\'\i}rica.
+  Por los caminos de la investigaci{\'o}n sobre migraci{\'o}n internacional}.
+  Instituto de Investigaciones Sociales-UNAM y El Co, 2012.
+
+\bibitem[LY75]{li1975bases}
+TY~Li and JA~Yorke.
+\newblock Bases de datos bibliogr{\'a}ficos, latex y el idioma espanol.
+\newblock {\em American Mathematical Monthly}, 82:985--992, 1975.
+
+\bibitem[Mar04]{martel2004guia}
+Eugenio~Fedriani Martel.
+\newblock {\em Gu{\'\i}a r{\'a}pida para el nuevo usuario de LATEX}.
+\newblock Juan Carlos Mart{\'\i}nez Coll, 2004.
+
+\bibitem[Zub59]{zuber1959hydrodynamic}
+Novak Zuber.
+\newblock Hydrodynamic aspects of boiling heat transfer (thesis).
+\newblock Technical report, Ramo-Wooldridge Corp., Los Angeles, CA (United
+  States); Univ. of California, Los Angeles, CA (United States), 1959.
+
+\end{thebibliography}

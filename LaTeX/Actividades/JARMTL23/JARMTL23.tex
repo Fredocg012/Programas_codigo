@@ -1,0 +1,72 @@
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+
+\title{TL23: La estructura de un documento en LaTex}
+\author{Jes\'us Adri\'an Rosas Mart\'inez}
+\date{\small{\today}}
+
+\begin{document}
+
+\maketitle %Encabezado
+
+\abstract{LaTex es muy utilizado para la composición de artículos académicos, tesis y libros técnicos, dado a que la calidad tipográfica de los documentos realizados es adecuada a las necesidades de una editorial científica de primera línea.}
+
+\tableofcontents %Indice
+
+\section{LaTeX} %sección
+\label{sec:latex} %referencia cruzada
+\subsection{¿Qué es LaTeX?} %subsección
+LaTex es un sistema de composición de textos, orientado a la creación de documentos escritos que presenten una alta calidad tipográfica.
+
+Por sus características y posibilidades, es usado de forma especialmente intensa en la generación de artículos y libros científicos que incluyen, entre otros elementos, expresiones matemáticas.
+
+\subsection{¿Por qué usar LaTeX?} %subsección
+Una de las ventajas de LaTeX es la calidad profesional de los documentos que puedes generar. \textsl{\footnotesize{La sección \ref{sec:latex} fundamenta esta ventaja}}.
+
+LaTeX, además, realiza de manera automática muchas tareas que de otro modo podrían resultar tediosas como: numerar capítulos y figuras, incluir y organizar la bibliografía adecuada, mantener índices y referencias cruzadas, etcétera.
+
+\section{Generar documentos PDF con LaTeX} %sección
+Para generar un documento pdf con LaTeX se requiere partir de un archivo de extensión .tex. Este se produce desde un editor y consta de las siguientes partes:
+
+\begin{enumerate} %lista enumerada
+\item \textbf{\Large{Preámbulo:}} En el se indica la clase de documento que se producirá, los paquetes que se utilizarán, comandos para la configuración de la apariencia del documento, etcétera.
+\item \textbf{\Large{Cuerpo del documento:}} En el se vierten los contenidos del texto que se desea producir.
+\end{enumerate}
+
+Una vez constituido el archivo .tex por el \textit{\small{preámbulo}} y el \textit{\small{cuerpo del documento}}, se debe compilar \emph{(procesar)} para generar el archivo PDF.
+
+
+\section{Composición de documentos .tex}
+\subsection{Clases de documentos en LaTeX}
+En LaTeX existen 5 tipos de clase para crear documentos estándar y son las siguientes: 
+
+\begin{center}
+\large{\textsc{Tipos de clases}}
+\end{center}
+
+\begin{itemize}
+\item \textbf{article:} Artículos para revistas científicas, tutoriales, etcétera.
+\item \textbf{report:} Textos largos como tesis, reportes, etcétera.
+\item \textbf{book:} Libros o documentos con una estructura similar.
+\item \textbf{letter:} Cartas.
+\item \textbf{slides:} Transparencias.
+\end{itemize}
+
+\section{Fuentes de consulta}
+
+\begin{flushright}
+Taller de LaTeX
+
+Página web: nokyotsu.com/latex/guia.html
+
+Página web: desarrolloweb.dlsi.ua.es/cursos/2015/herramientas-investigacion/que-es-latex
+\end{flushright}
+
+\begin{flushleft}
+\scriptsize{\texttt{Nota: Este documento\\aborda temas\\vistos anteriormente\\en el taller.}}
+\end{flushleft}
+
+\footnote{UNAM}
+
+\end{document}
