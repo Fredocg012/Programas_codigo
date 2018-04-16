@@ -1,0 +1,143 @@
+/*Editar la clase finanzas y agregar un metodo que sea aumentarSueldos
+En este se va a recibir Aumento, a quien sera el aumento (tipo empleado)
+El aumento se puede manejar como numero o porcentaje usando un empleado
+Imprimir todos los trabajadores antes y despues del aumento
+
+Colocar una restriccion: 
+Si es directivo máximo 50%
+	  Sistemas maximo 30%
+	  Finanzas 25%
+	  RH 70%
+	  Administrativo 35%
+	  Otro 15%
+	  */
+
+import java.util.ArrayList;
+
+abstract class Empleado{
+	private int numEmpleado;
+	private float sueldo;
+	private String nombre;
+
+	void trabajar(int horas){
+		System.out.println("Me toco trabajar!!");
+	}
+
+	float aumentoSueldo(float porc){
+		return this.sueldo+=(this.sueldo*porc);
+	}
+
+	public void setNumEmpleado(int num){
+		this.numEmpleado=num;
+	}
+	public int getNumEmpleado(){
+		return this.numEmpleado;
+	}
+	public void setSueldo(float sueldo){
+		this.sueldo=sueldo;
+	}
+	public float getSueldo(){
+		return this.sueldo;
+	}
+	public void setNombre(String nombre){
+		this.nombre=nombre;
+	}
+	public String getNombre(){
+		return this.nombre;
+	}
+}
+
+class Sistemas extends Empleado{
+	boolean responsableSeguridad;
+	String departamento;
+
+	Sistemas(){}
+	Sistemas(String nombre, int numEmpleado, String dep){
+		setNombre(nombre);
+		setNumEmpleado(numEmpleado);
+		this.departamento=dep;
+	}
+
+	void trabajar(int horas){
+		System.out.println("Estoy trabajando "+horas+
+		" hrs en el departamento de "+this.departamento
+		+" del area de Sistemas");
+	}
+}
+
+class Ejecutivo extends Empleado{
+	int idSmartPhone;
+	int numOficina;
+
+	void trabajar(int horas){
+		System.out.println("Estoy en junta como siempre y ya llevo "+horas+
+		" hrs");
+	}
+}
+
+class Director extends Ejecutivo{
+	String placasVehiculo;
+	boolean poderDecision;
+	int cantGenteCargo;
+	boolean conAcciones;
+
+	void trabajar(int horas){
+		System.out.println("Estoy revisando los reportes y ya llevo "+horas+
+		" hrs");
+	}
+}
+
+class Administrativo extends Empleado{
+	float dineroCajaChica;
+	int cantInventarios;
+
+	void trabajar(int horas){
+		System.out.println("Estoy peleandome con los ámbitos administrativos y soy explotado por "+horas+
+		" hrs");
+	}
+}
+
+class Finanzas extends Administrativo{
+	int numCuentaSueldos;
+	int cantCuentasBancarias;
+
+
+	void trabajar(int horas){
+		System.out.println("Estoy ajustando el presupuesto para que nos rinda el $ ");
+	}
+
+	void aumentarSueldo(float sueldo,float porc){
+		setSueldo(sueldo);
+		System.out.println("Mi sueldo normal es"+sueldo+" y mi sueldo con aumento es "+sueldo*porc);
+	}
+}
+
+class RH extends Administrativo{
+	int cantEval;
+
+	void trabajar(int horas){
+		System.out.println("Estoy evaluando perfiles de nuevos empleados!!!");
+	}
+}
+
+class MiEmpresaDos{
+	public static void main(String[] args) {
+		ArrayList<Empleado> empleados=new ArrayList<Empleado>();
+		empleados.add(new Sistemas("Juanito",2344,"Programacion"));
+		RH revisor=new RH();
+		revisor.setNombre("Maria");
+		revisor.setNumEmpleado(345435);
+		empleados.add(revisor);
+		empleados.add(new Director());
+		Finanzas f1=new Finanzas();
+		f1.setNombre("Alberto");
+		f1.setNumEmpleado(689);
+		f1.setSueldo(5000);
+		System.out.println(fi);
+		empleados.add(f1);
+
+		for(Empleado emp:empleados){
+			emp.trabajar(7);
+		}
+	}
+}
